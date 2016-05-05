@@ -1,0 +1,33 @@
+s[num=?n] --> np[num=?n,case=1], vp[num=?n].
+s[] --> s[], conj[], s[].
+
+np[num=?n] --> d[num=?n], n[num=?n].
+np[num=?n] --> pn[num=?n].
+
+vp[num=?n] --> iv[num=?n].
+vp[num=?n] --> tv[num=?n], np[case=4].
+
+d[num=1] --> {a}.
+d[num=2] --> {some}.
+d[] --> {the}.
+n[num=1] --> {boy}.
+n[num=2] --> {boys}.
+n[num=1] --> {girl}.
+n[num=2] --> {girls}.
+iv[num=1] --> {swims}.
+iv[num=2] --> {swim}.
+iv[num=1] --> {stops}.
+iv[num=2] --> {stop}.
+tv[num=1] --> {hates}.
+tv[num=2] --> {hate}.
+tv[num=1] --> {finds}.
+tv[num=2] --> {find}.
+pn[num=1,case=1] --> {he}.
+pn[num=1,case=4] --> {him}.
+pn[num=1,case=1] --> {she}.
+pn[num=1,case=4] --> {her}.
+pn[num=2,case=1] --> {they}.
+pn[num=2,case=4] --> {them}.
+conj[] --> {and}.
+conj[] --> {but}.
+conj[] --> {or}.

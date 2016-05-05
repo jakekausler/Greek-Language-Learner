@@ -1,0 +1,70 @@
+#S[Domain='Eating'] --> NP[Domain='Name'], VP[Domain='Eating']
+#S[Domain='Eating'] --> NP[Domain='People'], VP[Domain='Eating']
+#S[Domain='Eating'] --> NP[Domain='PersonReferral'], VP[Domain='Eating']
+#NP[Domain='Name'] --> Noun[Domain='Name']
+#NP[Domain='People'] --> Det[Domain='Article'], Noun[Domain='People']
+#NP[Domain='PersonReferral'] --> Pronoun[Domain='PersonReferral']
+#VP[Domain='Eating'] --> Verb[Domain='Eating']
+#VP[Domain='Eating'] --> Verb[Domain='Eating'], NP[Domain='Food']
+#NP[Domain='Food'] --> Det[Domain='Article'], Noun[Domain='Food']
+#NP[Domain='Food'] --> Pronoun[Domain='ThingReferral']
+
+#Det[Domain='Article'] --> The
+#Det[Domain='Article'] --> A
+#Noun[Domain='Name'] --> Jake
+#Noun[Domain='Name'] --> John
+#Noun[Domain='People'] --> Family
+#Noun[Domain='People'] --> Group
+#Pronoun[Domain='PersonReferral'] --> He
+#Pronoun[Domain='PersonReferral'] --> She
+#Noun[Domain='Food'] --> Pizza
+#Noun[Domain='Food'] --> Hamburger
+#Pronoun[Domain='ThingReferral'] --> It
+#Verb[Domain='Eating'] --> Ate
+#Verb[Domain='Eating'] --> Devoured
+
+S[Domain='Eating',Person='?p',Number='?n'] --> NP[Domain='Name',Person='?p',Number='?n'], VP-Head[Domain='Eating',Person='?p',Number='?n']
+S[Domain='Eating',Person='?p',Number='?n'] --> NP[Domain='People',Person='?p',Number='?n'], VP-Head[Domain='Eating',Person='?p',Number='?n']
+S[Domain='Eating',Person='?p',Number='?n'] --> NP[Domain='PersonReferral',Person='?p',Number='?n'], VP-Head[Domain='Eating',Person='?p',Number='?n']
+NP[Domain='Name'] --> Noun-Head[Domain='Name']
+NP[Domain='People',Number='?n'] --> Det[Domain='Article',Number='?n'], Noun-Head[Domain='People',Number='?n']
+NP[Domain='PersonReferral'] --> Pronoun-Head[Domain='PersonReferral']
+VP[Domain='Eating'] --> Verb-Head[Domain='Eating']
+VP[Domain='Eating'] --> Verb-Head[Domain='Eating'], NP[Domain='Food']
+NP[Domain='Food',Number='?n'] --> Det[Domain='Article',Number='?n'], Noun-Head[Domain='Food',Number='?n']
+NP[Domain='Food'] --> Pronoun-Head[Domain='ThingReferral']
+
+Det[Domain='Article'] --> The
+Det[Domain='Article',Number='1'] --> A
+Det[Domain='Article',Number='2'] --> Some
+Noun[Domain='Name',Person='3',Number='1'] --> Jake
+Noun[Domain='Name',Person='3',Number='1'] --> John
+Noun[Domain='People',Person='3',Number='1'] --> Family
+Noun[Domain='People',Person='3',Number='1'] --> Group
+Noun[Domain='People',Person='3',Number='2'] --> Families
+Noun[Domain='People',Person='3',Number='2'] --> Groups
+Pronoun[Domain='PersonReferral',Person='3',Number='1'] --> He
+Pronoun[Domain='PersonReferral',Person='3',Number='1'] --> She
+Pronoun[Domain='PersonReferral',Person='1',Number='1'] --> I
+Pronoun[Domain='PersonReferral',Person='2',Number='1'] --> You
+Pronoun[Domain='PersonReferral',Person='3',Number='2'] --> They
+Pronoun[Domain='PersonReferral',Person='1',Number='2'] --> We
+Pronoun[Domain='PersonReferral',Person='2',Number='2'] --> Yall
+Noun[Domain='Food',Person='3',Number='1'] --> Pizza
+Noun[Domain='Food',Person='3',Number='1'] --> Hamburger
+Noun[Domain='Food',Person='3',Number='2'] --> Pizzas
+Noun[Domain='Food',Person='3',Number='2'] --> Hamburgers
+Pronoun[Domain='ThingReferral',Person='3',Number='1'] --> It
+Pronoun[Domain='ThingReferral',Person='3',Number='2'] --> Those
+Verb[Domain='Eating',Person='1',Number='1'] --> Eat
+Verb[Domain='Eating',Person='2',Number='1'] --> Eat
+Verb[Domain='Eating',Person='1',Number='2'] --> Eat
+Verb[Domain='Eating',Person='2',Number='2'] --> Eat
+Verb[Domain='Eating',Person='3',Number='2'] --> Eat
+Verb[Domain='Eating',Person='3',Number='1'] --> Eats
+Verb[Domain='Eating',Person='1',Number='1'] --> Devour
+Verb[Domain='Eating',Person='2',Number='1'] --> Devour
+Verb[Domain='Eating',Person='1',Number='2'] --> Devour
+Verb[Domain='Eating',Person='2',Number='2'] --> Devour
+Verb[Domain='Eating',Person='3',Number='2'] --> Devour
+Verb[Domain='Eating',Person='3',Number='1'] --> Devours

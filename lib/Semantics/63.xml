@@ -1,0 +1,1305 @@
+<Sentences>
+<Sentence ID="2Jn1:1:1-1:2:14">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="Conj2CL">
+    <Node Cat="CL" Head="0" Rule="S-IO">
+      <Node Cat="S" Head="0" Rule="np2S">
+        <Node Cat="np" Head="1" Rule="DetAdj">
+          <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">Ὁ</Node>
+          <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+            <Node Case="Nominative" Cat="adj" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="adj">πρεσβύτερος</Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="IO" Head="0" Rule="np2IO">
+        <Node Cat="np" Head="0" Rule="NP-CL">
+          <Node Cat="np" Head="0" Rule="Conj2NP">
+            <Node Cat="np" Head="1" Rule="AdjpNP">
+              <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                <Node Case="Dative" Cat="adj" Domain="Quality" Gender="Feminine" Number="Singular" Rule="adj">ἐκλεκτῇ</Node>
+              </Node>
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Dative" Cat="noun" Domain="" Gender="Feminine" Number="Singular" Rule="noun">κυρίᾳ</Node>
+              </Node>
+            </Node>
+            <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+            <Node Cat="np" Head="1" Rule="DetNP">
+              <Node Case="Dative" Cat="det" Domain="" Gender="Neuter" Number="Plural" Rule="det">τοῖς</Node>
+              <Node Cat="np" Head="0" Rule="NPofNP">
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Dative" Cat="noun" Domain="FamilyRelation" Gender="Neuter" Number="Plural" Rule="noun">τέκνοις</Node>
+                </Node>
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Genitive" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">αὐτῆς</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="CL" Head="1" Rule="O-V-ADV-S-ADV">
+            <Node Cat="O" Head="0" Rule="np2O">
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Accusative" Cat="pron" Domain="" Gender="Masculine" Number="Plural" Rule="pron">οὓς</Node>
+              </Node>
+            </Node>
+            <Node Cat="V" Head="0" Rule="vp2V">
+              <Node Cat="vp" Head="0" Rule="V2VP">
+                <Node Cat="verb" Domain="Loving" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Present" Voice="Active">ἀγαπῶ</Node>
+              </Node>
+            </Node>
+            <Node Cat="ADV" Head="0" Rule="pp2ADV">
+              <Node Cat="pp" Head="1" Rule="PrepNP">
+                <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Dative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀληθείᾳ</Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node Cat="S" Head="0" Rule="np2S">
+              <Node Cat="np" Head="0" Rule="Conj2NP">
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Nominative" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">ἐγὼ</Node>
+                </Node>
+                <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+                <Node Cat="np" Head="3" Rule="notNPbutNP">
+                  <Node Cat="advp" Head="0" Rule="Adv2Advp">
+                    <Node Cat="adv" Domain="Not" Rule="adv">οὐκ</Node>
+                  </Node>
+                  <Node Cat="np" Head="0" Rule="NP-AdjP">
+                    <Node Cat="np" Head="0" Rule="Pron2NP">
+                      <Node Case="Nominative" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">ἐγὼ</Node>
+                    </Node>
+                    <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                      <Node Case="Nominative" Cat="adj" Domain="Only" Gender="Masculine" Number="Singular" Rule="adj">μόνος</Node>
+                    </Node>
+                  </Node>
+                  <Node Cat="conj" Domain="Contrast" Rule="conj">ἀλλὰ</Node>
+                  <Node Cat="np" Head="1" Rule="AdvNP">
+                    <Node Cat="advp" Head="0" Rule="Adv2Advp">
+                      <Node Cat="adv" Domain="" Rule="adv">καὶ</Node>
+                    </Node>
+                    <Node Cat="np" Head="1" Rule="All-NP">
+                      <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                        <Node Case="Nominative" Cat="adj" Domain="All" Gender="Masculine" Number="Plural" Rule="adj">πάντες</Node>
+                      </Node>
+                      <Node Cat="np" Head="1" Rule="DetCL">
+                        <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Plural" Rule="det">οἱ</Node>
+                        <Node Cat="CL" Head="0" Rule="V-O">
+                          <Node Cat="V" Head="0" Rule="vp2V">
+                            <Node Cat="vp" Head="0" Rule="V2VP">
+                              <Node Case="Nominative" Cat="verb" Domain="Knowing" Gender="Masculine" Mood="Participle" Number="Plural" Rule="verb" Tense="Perfect" Voice="Active">ἐγνωκότες</Node>
+                            </Node>
+                          </Node>
+                          <Node Cat="O" Head="0" Rule="np2O">
+                            <Node Cat="np" Head="1" Rule="DetNP">
+                              <Node Case="Accusative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τὴν</Node>
+                              <Node Cat="np" Head="0" Rule="N2NP">
+                                <Node Case="Accusative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀλήθειαν</Node>
+                              </Node>
+                            </Node>
+                          </Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node Cat="ADV" Head="0" Rule="pp2ADV">
+              <Node Cat="pp" Head="1" Rule="PrepNP">
+                <Node Cat="prep" Domain="" Rule="prep">διὰ</Node>
+                <Node Cat="np" Head="0" Rule="NP-Appos">
+                  <Node Cat="np" Head="1" Rule="DetNP">
+                    <Node Case="Accusative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τὴν</Node>
+                    <Node Cat="np" Head="0" Rule="N2NP">
+                      <Node Case="Accusative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀλήθειαν</Node>
+                    </Node>
+                  </Node>
+                  <Node Cat="np" Head="1" Rule="DetCL">
+                    <Node Case="Accusative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τὴν</Node>
+                    <Node Cat="CL" Head="0" Rule="V-ADV">
+                      <Node Cat="V" Head="0" Rule="vp2V">
+                        <Node Cat="vp" Head="0" Rule="V2VP">
+                          <Node Case="Accusative" Cat="verb" Domain="Staying" Gender="Feminine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">μένουσαν</Node>
+                        </Node>
+                      </Node>
+                      <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                        <Node Cat="pp" Head="1" Rule="PrepNP">
+                          <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+                          <Node Cat="np" Head="0" Rule="Pron2NP">
+                            <Node Case="Dative" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ἡμῖν</Node>
+                          </Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+    <Node Cat="CL" Head="0" Rule="P-VC-ADV">
+      <Node Cat="P" Head="0" Rule="pp2P">
+        <Node Cat="pp" Head="1" Rule="PrepNP">
+          <Node Cat="prep" Domain="" Rule="prep">μεθ’</Node>
+          <Node Cat="np" Head="0" Rule="Pron2NP">
+            <Node Case="Genitive" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ἡμῶν</Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="VC" Head="0" Rule="vp2VC">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Being" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Future" Voice="Middle">ἔσται</Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="pp2ADV">
+        <Node Cat="pp" Head="1" Rule="PrepNP">
+          <Node Cat="prep" Domain="" Rule="prep">εἰς</Node>
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Accusative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τὸν</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Accusative" Cat="noun" Domain="Time" Gender="Masculine" Number="Singular" Rule="noun">αἰῶνα</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:3:1-1:3:21">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="VC-P-S-ADV">
+    <Node Cat="VC" Head="0" Rule="vp2VC">
+      <Node Cat="vp" Head="0" Rule="V2VP">
+        <Node Cat="verb" Domain="Being" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Future" Voice="Middle">ἔσται</Node>
+      </Node>
+    </Node>
+    <Node Cat="P" Head="0" Rule="pp2P">
+      <Node Cat="pp" Head="1" Rule="PrepNP">
+        <Node Cat="prep" Domain="" Rule="prep">μεθ’</Node>
+        <Node Cat="np" Head="0" Rule="Pron2NP">
+          <Node Case="Genitive" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ἡμῶν</Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="S" Head="0" Rule="np2S">
+      <Node Cat="np" Head="0" Rule="NP-PP">
+        <Node Cat="np" Head="0" Rule="NpNpNp">
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Nominative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">χάρις</Node>
+          </Node>
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Nominative" Cat="noun" Domain="Concept" Gender="Neuter" Number="Singular" Rule="noun">ἔλεος</Node>
+          </Node>
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Nominative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">εἰρήνη</Node>
+          </Node>
+        </Node>
+        <Node Cat="pp" Head="0" Rule="Conj2PP">
+          <Node Cat="pp" Head="1" Rule="PrepNP">
+            <Node Cat="prep" Domain="" Rule="prep">παρὰ</Node>
+            <Node Cat="np" Head="0" Rule="NP-Appos">
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Genitive" Cat="noun" Domain="Name" Gender="Masculine" Number="Singular" Rule="noun">θεοῦ</Node>
+              </Node>
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">πατρός</Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+          <Node Cat="pp" Head="1" Rule="PrepNP">
+            <Node Cat="prep" Domain="" Rule="prep">παρὰ</Node>
+            <Node Cat="np" Head="0" Rule="NP-Appos">
+              <Node Cat="np" Head="0" Rule="NP-Appos">
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Genitive" Cat="noun" Domain="Name" Gender="Masculine" Number="Singular" Rule="noun">Ἰησοῦ</Node>
+                </Node>
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Genitive" Cat="noun" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="noun">Χριστοῦ</Node>
+                </Node>
+              </Node>
+              <Node Cat="np" Head="1" Rule="DetNP">
+                <Node Case="Genitive" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τοῦ</Node>
+                <Node Cat="np" Head="0" Rule="NPofNP">
+                  <Node Cat="np" Head="0" Rule="N2NP">
+                    <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">υἱοῦ</Node>
+                  </Node>
+                  <Node Cat="np" Head="1" Rule="DetNP">
+                    <Node Case="Genitive" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τοῦ</Node>
+                    <Node Cat="np" Head="0" Rule="N2NP">
+                      <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">πατρός</Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="ADV" Head="0" Rule="pp2ADV">
+      <Node Cat="pp" Head="1" Rule="PrepNP">
+        <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+        <Node Cat="np" Head="0" Rule="Conj2NP">
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Dative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀληθείᾳ</Node>
+          </Node>
+          <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Dative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀγάπῃ</Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:4:1-1:4:17">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="ClCl">
+    <Node Cat="CL" Head="0" Rule="V-ADV">
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Rejoicing" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Aorist" Voice="Passive">Ἐχάρην</Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="advp2ADV">
+        <Node Cat="advp" Head="0" Rule="Adv2Advp">
+          <Node Cat="adv" Domain="Degree" Rule="adv">λίαν</Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="CL" Head="1" Rule="sub-CL">
+      <Node Cat="conj" Domain="" Rule="conj">ὅτι</Node>
+      <Node Cat="CL" Head="0" Rule="V-O">
+        <Node Cat="V" Head="0" Rule="vp2V">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Finding" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Perfect" Voice="Active">εὕρηκα</Node>
+          </Node>
+        </Node>
+        <Node Cat="O" Head="0" Rule="CL2O">
+          <Node Cat="CL" Head="0" Rule="ClCl">
+            <Node Cat="CL" Head="1" Rule="ADV-V-ADV">
+              <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                <Node Cat="pp" Head="1" Rule="PrepNP">
+                  <Node Cat="prep" Domain="" Rule="prep">ἐκ</Node>
+                  <Node Cat="np" Head="1" Rule="DetNP">
+                    <Node Case="Genitive" Cat="det" Domain="" Gender="Neuter" Number="Plural" Rule="det">τῶν</Node>
+                    <Node Cat="np" Head="0" Rule="NPofNP">
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Neuter" Number="Plural" Rule="noun">τέκνων</Node>
+                      </Node>
+                      <Node Cat="np" Head="0" Rule="Pron2NP">
+                        <Node Case="Genitive" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">σου</Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Case="Accusative" Cat="verb" Domain="Going" Gender="Masculine" Mood="Participle" Number="Plural" Rule="verb" Tense="Present" Voice="Active">περιπατοῦντας</Node>
+                </Node>
+              </Node>
+              <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                <Node Cat="pp" Head="1" Rule="PrepNP">
+                  <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+                  <Node Cat="np" Head="0" Rule="N2NP">
+                    <Node Case="Dative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀληθείᾳ</Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node Cat="CL" Head="1" Rule="sub-CL">
+              <Node Cat="conj" Domain="As" Rule="conj">καθὼς</Node>
+              <Node Cat="CL" Head="1" Rule="O-V-ADV">
+                <Node Cat="O" Head="0" Rule="np2O">
+                  <Node Cat="np" Head="0" Rule="N2NP">
+                    <Node Case="Accusative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">ἐντολὴν</Node>
+                  </Node>
+                </Node>
+                <Node Cat="V" Head="0" Rule="vp2V">
+                  <Node Cat="vp" Head="0" Rule="V2VP">
+                    <Node Cat="verb" Domain="Taking" Mood="Indicative" Number="Plural" Person="First" Rule="verb" Tense="Aorist" Voice="Active">ἐλάβομεν</Node>
+                  </Node>
+                </Node>
+                <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                  <Node Cat="pp" Head="1" Rule="PrepNP">
+                    <Node Cat="prep" Domain="" Rule="prep">παρὰ</Node>
+                    <Node Cat="np" Head="1" Rule="DetNP">
+                      <Node Case="Genitive" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τοῦ</Node>
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">πατρός</Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:5:1-1:5:19">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="Conj-CL">
+    <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+    <Node Cat="CL" Head="1" Rule="ClCl2">
+      <Node Cat="CL" Head="0" Rule="np2CL">
+        <Node Cat="np" Head="0" Rule="N2NP">
+          <Node Case="Vocative" Cat="noun" Domain="" Gender="Feminine" Number="Singular" Rule="noun">κυρία</Node>
+        </Node>
+      </Node>
+      <Node Cat="CL" Head="0" Rule="ClCl">
+        <Node Cat="CL" Head="1" Rule="ADV-V-O-ADV">
+          <Node Cat="ADV" Head="0" Rule="advp2ADV">
+            <Node Cat="advp" Head="0" Rule="Adv2Advp">
+              <Node Cat="adv" Domain="TimeReference" Rule="adv">νῦν</Node>
+            </Node>
+          </Node>
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Speaking" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Present" Voice="Active">ἐρωτῶ</Node>
+            </Node>
+          </Node>
+          <Node Cat="O" Head="0" Rule="np2O">
+            <Node Cat="np" Head="0" Rule="Pron2NP">
+              <Node Case="Accusative" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">σε</Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="CL2ADV">
+            <Node Cat="CL" Head="0" Rule="V-IO-ADV">
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Case="Nominative" Cat="verb" Domain="Speaking" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">γράφων</Node>
+                </Node>
+              </Node>
+              <Node Cat="IO" Head="0" Rule="np2IO">
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Dative" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">σοι</Node>
+                </Node>
+              </Node>
+              <Node Cat="ADV" Head="0" Rule="CL2ADV">
+                <Node Cat="CL" Head="3" Rule="notCLbutCL2CL">
+                  <Node Cat="advp" Head="0" Rule="Adv2Advp">
+                    <Node Cat="adv" Domain="Not" Rule="adv">οὐχ</Node>
+                  </Node>
+                  <Node Cat="CL" Head="1" Rule="sub-CL">
+                    <Node Cat="conj" Domain="As" Rule="conj">ὡς</Node>
+                    <Node Cat="CL" Head="0" Rule="O2CL">
+                      <Node Cat="O" Head="0" Rule="np2O">
+                        <Node Cat="np" Head="0" Rule="NP-AdjP">
+                          <Node Cat="np" Head="0" Rule="N2NP">
+                            <Node Case="Accusative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">ἐντολὴν</Node>
+                          </Node>
+                          <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                            <Node Case="Accusative" Cat="adj" Domain="Quality" Gender="Feminine" Number="Singular" Rule="adj">καινὴν</Node>
+                          </Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node Cat="conj" Domain="Contrast" Rule="conj">ἀλλὰ</Node>
+                  <Node Cat="CL" Head="1" Rule="O-V-ADV">
+                    <Node Cat="O" Head="0" Rule="np2O">
+                      <Node Cat="np" Head="0" Rule="Pron2NP">
+                        <Node Case="Accusative" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">ἣν</Node>
+                      </Node>
+                    </Node>
+                    <Node Cat="V" Head="0" Rule="vp2V">
+                      <Node Cat="vp" Head="0" Rule="V2VP">
+                        <Node Cat="verb" Domain="Having" Mood="Indicative" Number="Plural" Person="First" Rule="verb" Tense="Imperfect" Voice="Active">εἴχομεν</Node>
+                      </Node>
+                    </Node>
+                    <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                      <Node Cat="pp" Head="1" Rule="PrepNP">
+                        <Node Cat="prep" Domain="" Rule="prep">ἀπ’</Node>
+                        <Node Cat="np" Head="0" Rule="N2NP">
+                          <Node Case="Genitive" Cat="noun" Domain="Time" Gender="Feminine" Number="Singular" Rule="noun">ἀρχῆς</Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="CL" Head="1" Rule="sub-CL">
+          <Node Cat="conj" Domain="That" Rule="conj">ἵνα</Node>
+          <Node Cat="CL" Head="0" Rule="V-O">
+            <Node Cat="V" Head="0" Rule="vp2V">
+              <Node Cat="vp" Head="0" Rule="V2VP">
+                <Node Cat="verb" Domain="Loving" Mood="Subjunctive" Number="Plural" Person="First" Rule="verb" Tense="Present" Voice="Active">ἀγαπῶμεν</Node>
+              </Node>
+            </Node>
+            <Node Cat="O" Head="0" Rule="np2O">
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Accusative" Cat="pron" Domain="Different" Gender="Masculine" Number="Plural" Rule="pron">ἀλλήλους</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:6:1-1:6:11">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="Conj-CL">
+    <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+    <Node Cat="CL" Head="0" Rule="ClCl">
+      <Node Cat="CL" Head="0" Rule="P-VC-S">
+        <Node Cat="P" Head="0" Rule="np2P">
+          <Node Cat="np" Head="0" Rule="Pron2NP">
+            <Node Case="Nominative" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">αὕτη</Node>
+          </Node>
+        </Node>
+        <Node Cat="VC" Head="0" Rule="vp2VC">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Being" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ἐστὶν</Node>
+          </Node>
+        </Node>
+        <Node Cat="S" Head="0" Rule="np2S">
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Nominative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">ἡ</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Nominative" Cat="noun" Domain="Concept" Gender="Feminine" Number="Singular" Rule="noun">ἀγάπη</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="CL" Head="1" Rule="that-VP">
+        <Node Cat="conj" Head="0" Rule="Adv2Conj">
+          <Node Cat="adv" Domain="That" Rule="adv">ἵνα</Node>
+        </Node>
+        <Node Cat="CL" Head="0" Rule="V-ADV">
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Going" Mood="Subjunctive" Number="Plural" Person="First" Rule="verb" Tense="Present" Voice="Active">περιπατῶμεν</Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="pp2ADV">
+            <Node Cat="pp" Head="1" Rule="PrepNP">
+              <Node Cat="prep" Domain="" Rule="prep">κατὰ</Node>
+              <Node Cat="np" Head="1" Rule="DetNP">
+                <Node Case="Accusative" Cat="det" Domain="" Gender="Feminine" Number="Plural" Rule="det">τὰς</Node>
+                <Node Cat="np" Head="0" Rule="NPofNP">
+                  <Node Cat="np" Head="0" Rule="N2NP">
+                    <Node Case="Accusative" Cat="noun" Domain="Information" Gender="Feminine" Number="Plural" Rule="noun">ἐντολὰς</Node>
+                  </Node>
+                  <Node Cat="np" Head="0" Rule="Pron2NP">
+                    <Node Case="Genitive" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">αὐτοῦ</Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:6:12-1:6:23">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="ClCl">
+    <Node Cat="CL" Head="0" Rule="ClCl">
+      <Node Cat="CL" Head="0" Rule="P-S-VC">
+        <Node Cat="P" Head="0" Rule="np2P">
+          <Node Cat="np" Head="0" Rule="Pron2NP">
+            <Node Case="Nominative" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">αὕτη</Node>
+          </Node>
+        </Node>
+        <Node Cat="S" Head="0" Rule="np2S">
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Nominative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">ἡ</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Nominative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">ἐντολή</Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="VC" Head="0" Rule="vp2VC">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Being" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ἐστιν</Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="CL" Head="1" Rule="sub-CL">
+        <Node Cat="conj" Domain="As" Rule="conj">καθὼς</Node>
+        <Node Cat="CL" Head="0" Rule="V-ADV">
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Hearing" Mood="Indicative" Number="Plural" Person="Second" Rule="verb" Tense="Aorist" Voice="Active">ἠκούσατε</Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="pp2ADV">
+            <Node Cat="pp" Head="1" Rule="PrepNP">
+              <Node Cat="prep" Domain="" Rule="prep">ἀπ’</Node>
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Genitive" Cat="noun" Domain="Time" Gender="Feminine" Number="Singular" Rule="noun">ἀρχῆς</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="CL" Head="1" Rule="that-VP">
+      <Node Cat="conj" Head="0" Rule="Adv2Conj">
+        <Node Cat="adv" Domain="That" Rule="adv">ἵνα</Node>
+      </Node>
+      <Node Cat="CL" Head="1" Rule="ADV-V">
+        <Node Cat="ADV" Head="0" Rule="pp2ADV">
+          <Node Cat="pp" Head="1" Rule="PrepNP">
+            <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+            <Node Cat="np" Head="0" Rule="Pron2NP">
+              <Node Case="Dative" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">αὐτῇ</Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="V" Head="0" Rule="vp2V">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Going" Mood="Subjunctive" Number="Plural" Person="Second" Rule="verb" Tense="Present" Voice="Active">περιπατῆτε</Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:7:1-1:7:15">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="sub-CL">
+    <Node Cat="conj" Domain="" Rule="conj">ὅτι</Node>
+    <Node Cat="CL" Head="0" Rule="V-ADV-S">
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Going" Mood="Indicative" Number="Plural" Person="Third" Rule="verb" Tense="Aorist" Voice="Active">ἐξῆλθον</Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="pp2ADV">
+        <Node Cat="pp" Head="1" Rule="PrepNP">
+          <Node Cat="prep" Domain="" Rule="prep">εἰς</Node>
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Accusative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τὸν</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Accusative" Cat="noun" Domain="GeographicalLocation" Gender="Masculine" Number="Singular" Rule="noun">κόσμον</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="S" Head="0" Rule="np2S">
+        <Node Cat="np" Head="0" Rule="NP-Appos">
+          <Node Cat="np" Head="1" Rule="AdjpNP">
+            <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+              <Node Case="Nominative" Cat="adj" Domain="" Gender="Masculine" Number="Plural" Rule="adj">πολλοὶ</Node>
+            </Node>
+            <Node Cat="np" Head="0" Rule="Adj2NP">
+              <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                <Node Case="Nominative" Cat="adj" Domain="Quality" Gender="Masculine" Number="Plural" Rule="adj">πλάνοι</Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="np" Head="1" Rule="DetCL">
+            <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Plural" Rule="det">οἱ</Node>
+            <Node Cat="CL" Head="1" Rule="ADV-V-O">
+              <Node Cat="ADV" Head="0" Rule="advp2ADV">
+                <Node Cat="advp" Head="0" Rule="Adv2Advp">
+                  <Node Cat="adv" Domain="Not" Rule="adv">μὴ</Node>
+                </Node>
+              </Node>
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Case="Nominative" Cat="verb" Domain="Speaking" Gender="Masculine" Mood="Participle" Number="Plural" Rule="verb" Tense="Present" Voice="Active">ὁμολογοῦντες</Node>
+                </Node>
+              </Node>
+              <Node Cat="O" Head="0" Rule="CL2O">
+                <Node Cat="CL" Head="1" Rule="S-V-ADV">
+                  <Node Cat="S" Head="0" Rule="np2S">
+                    <Node Cat="np" Head="0" Rule="NP-Appos">
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Accusative" Cat="noun" Domain="Name" Gender="Masculine" Number="Singular" Rule="noun">Ἰησοῦν</Node>
+                      </Node>
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Accusative" Cat="noun" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="noun">Χριστὸν</Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node Cat="V" Head="0" Rule="vp2V">
+                    <Node Cat="vp" Head="0" Rule="V2VP">
+                      <Node Case="Accusative" Cat="verb" Domain="Going" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Middle">ἐρχόμενον</Node>
+                    </Node>
+                  </Node>
+                  <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                    <Node Cat="pp" Head="1" Rule="PrepNP">
+                      <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Dative" Cat="noun" Domain="BodyPart" Gender="Feminine" Number="Singular" Rule="noun">σαρκί</Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:7:16-1:7:22">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="2" Rule="S-VC-P">
+    <Node Cat="S" Head="0" Rule="np2S">
+      <Node Cat="np" Head="0" Rule="Pron2NP">
+        <Node Case="Nominative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">οὗτός</Node>
+      </Node>
+    </Node>
+    <Node Cat="VC" Head="0" Rule="vp2VC">
+      <Node Cat="vp" Head="0" Rule="V2VP">
+        <Node Cat="verb" Domain="Being" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ἐστιν</Node>
+      </Node>
+    </Node>
+    <Node Cat="P" Head="0" Rule="np2P">
+      <Node Cat="np" Head="0" Rule="Conj2NP">
+        <Node Cat="np" Head="1" Rule="DetAdj">
+          <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">ὁ</Node>
+          <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+            <Node Case="Nominative" Cat="adj" Domain="Quality" Gender="Masculine" Number="Singular" Rule="adj">πλάνος</Node>
+          </Node>
+        </Node>
+        <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+        <Node Cat="np" Head="1" Rule="DetNP">
+          <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">ὁ</Node>
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Nominative" Cat="noun" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="noun">ἀντίχριστος</Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:8:1-1:8:11">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="ClCl">
+    <Node Cat="CL" Head="0" Rule="V-O">
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Seeing" Mood="Imperative" Number="Plural" Person="Second" Rule="verb" Tense="Present" Voice="Active">βλέπετε</Node>
+        </Node>
+      </Node>
+      <Node Cat="O" Head="0" Rule="np2O">
+        <Node Cat="np" Head="0" Rule="Pron2NP">
+          <Node Case="Accusative" Cat="pron" Domain="" Gender="Masculine" Number="Plural" Rule="pron">ἑαυτούς</Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="CL" Head="1" Rule="sub-CL">
+      <Node Cat="conj" Domain="That" Rule="conj">ἵνα</Node>
+      <Node Cat="CL" Head="3" Rule="notCLbutCL2CL">
+        <Node Cat="advp" Head="0" Rule="Adv2Advp">
+          <Node Cat="adv" Domain="Not" Rule="adv">μὴ</Node>
+        </Node>
+        <Node Cat="CL" Head="0" Rule="V-O">
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Harming" Mood="Subjunctive" Number="Plural" Person="Second" Rule="verb" Tense="Aorist" Voice="Active">ἀπολέσητε</Node>
+            </Node>
+          </Node>
+          <Node Cat="O" Head="0" Rule="np2O">
+            <Node Cat="np" Head="0" Rule="CL2NP">
+              <Node Cat="CL" Head="1" Rule="O-V">
+                <Node Cat="O" Head="0" Rule="np2O">
+                  <Node Cat="np" Head="0" Rule="Pron2NP">
+                    <Node Case="Accusative" Cat="pron" Domain="" Gender="Neuter" Number="Plural" Rule="pron">ἃ</Node>
+                  </Node>
+                </Node>
+                <Node Cat="V" Head="0" Rule="vp2V">
+                  <Node Cat="vp" Head="0" Rule="V2VP">
+                    <Node Cat="verb" Domain="Doing" Mood="Indicative" Number="Plural" Person="First" Rule="verb" Tense="Aorist" Voice="Middle">εἰργασάμεθα</Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="conj" Domain="Contrast" Rule="conj">ἀλλὰ</Node>
+        <Node Cat="CL" Head="1" Rule="O-V">
+          <Node Cat="O" Head="0" Rule="np2O">
+            <Node Cat="np" Head="0" Rule="NP-AdjP">
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Accusative" Cat="noun" Domain="Thing" Gender="Masculine" Number="Singular" Rule="noun">μισθὸν</Node>
+              </Node>
+              <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                <Node Case="Accusative" Cat="adj" Domain="Quality" Gender="Masculine" Number="Singular" Rule="adj">πλήρη</Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Taking" Mood="Subjunctive" Number="Plural" Person="Second" Rule="verb" Tense="Aorist" Voice="Active">ἀπολάβητε</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:9:1-1:9:14">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="3" Rule="S-O-ADV-V">
+    <Node Cat="S" Head="0" Rule="np2S">
+      <Node Cat="np" Head="1" Rule="All-NP">
+        <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+          <Node Case="Nominative" Cat="adj" Domain="All" Gender="Masculine" Number="Singular" Rule="adj">πᾶς</Node>
+        </Node>
+        <Node Cat="np" Head="1" Rule="DetCL">
+          <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">ὁ</Node>
+          <Node Cat="CL" Head="0" Rule="Conj2CL">
+            <Node Cat="CL" Head="0" Rule="V2CL">
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Case="Nominative" Cat="verb" Domain="Going" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">προάγων</Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+            <Node Cat="CL" Head="1" Rule="ADV-V-ADV">
+              <Node Cat="ADV" Head="0" Rule="advp2ADV">
+                <Node Cat="advp" Head="0" Rule="Adv2Advp">
+                  <Node Cat="adv" Domain="Not" Rule="adv">μὴ</Node>
+                </Node>
+              </Node>
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Case="Nominative" Cat="verb" Domain="Staying" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">μένων</Node>
+                </Node>
+              </Node>
+              <Node Cat="ADV" Head="0" Rule="pp2ADV">
+                <Node Cat="pp" Head="1" Rule="PrepNP">
+                  <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+                  <Node Cat="np" Head="1" Rule="DetNP">
+                    <Node Case="Dative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τῇ</Node>
+                    <Node Cat="np" Head="0" Rule="NPofNP">
+                      <Node Cat="np" Head="0" Rule="N2NP">
+                        <Node Case="Dative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">διδαχῇ</Node>
+                      </Node>
+                      <Node Cat="np" Head="1" Rule="DetNP">
+                        <Node Case="Genitive" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τοῦ</Node>
+                        <Node Cat="np" Head="0" Rule="N2NP">
+                          <Node Case="Genitive" Cat="noun" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="noun">Χριστοῦ</Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="O" Head="0" Rule="np2O">
+      <Node Cat="np" Head="0" Rule="N2NP">
+        <Node Case="Accusative" Cat="noun" Domain="Name" Gender="Masculine" Number="Singular" Rule="noun">θεὸν</Node>
+      </Node>
+    </Node>
+    <Node Cat="ADV" Head="0" Rule="advp2ADV">
+      <Node Cat="advp" Head="0" Rule="Adv2Advp">
+        <Node Cat="adv" Domain="Not" Rule="adv">οὐκ</Node>
+      </Node>
+    </Node>
+    <Node Cat="V" Head="0" Rule="vp2V">
+      <Node Cat="vp" Head="0" Rule="V2VP">
+        <Node Cat="verb" Domain="Having" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ἔχει</Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:9:15-1:9:27">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="ClCl2">
+    <Node Cat="CL" Head="0" Rule="np2CL">
+      <Node Cat="np" Head="1" Rule="DetCL">
+        <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">ὁ</Node>
+        <Node Cat="CL" Head="0" Rule="V-ADV">
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Case="Nominative" Cat="verb" Domain="Staying" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">μένων</Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="pp2ADV">
+            <Node Cat="pp" Head="1" Rule="PrepNP">
+              <Node Cat="prep" Domain="" Rule="prep">ἐν</Node>
+              <Node Cat="np" Head="1" Rule="DetNP">
+                <Node Case="Dative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τῇ</Node>
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Dative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">διδαχῇ</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="CL" Head="2" Rule="S-O-V">
+      <Node Cat="S" Head="0" Rule="np2S">
+        <Node Cat="np" Head="0" Rule="Pron2NP">
+          <Node Case="Nominative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">οὗτος</Node>
+        </Node>
+      </Node>
+      <Node Cat="O" Head="0" Rule="np2O">
+        <Node Cat="np" Head="1" Rule="EitherOrNp">
+          <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Accusative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τὸν</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Accusative" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">πατέρα</Node>
+            </Node>
+          </Node>
+          <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Accusative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">τὸν</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Accusative" Cat="noun" Domain="FamilyRelation" Gender="Masculine" Number="Singular" Rule="noun">υἱὸν</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Having" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ἔχει</Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:10:1-1:10:21">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="ClCl2">
+    <Node Cat="CL" Head="1" Rule="sub-CL">
+      <Node Cat="conj" Domain="If" Rule="conj">εἴ</Node>
+      <Node Cat="CL" Head="0" Rule="Conj2CL">
+        <Node Cat="CL" Head="1" Rule="S-V-ADV">
+          <Node Cat="S" Head="0" Rule="np2S">
+            <Node Cat="np" Head="0" Rule="Pron2NP">
+              <Node Case="Nominative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">τις</Node>
+            </Node>
+          </Node>
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Going" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Middle">ἔρχεται</Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="pp2ADV">
+            <Node Cat="pp" Head="1" Rule="PrepNP">
+              <Node Cat="prep" Domain="" Rule="prep">πρὸς</Node>
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Accusative" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ὑμᾶς</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+        <Node Cat="CL" Head="2" Rule="O-ADV-V">
+          <Node Cat="O" Head="0" Rule="np2O">
+            <Node Cat="np" Head="1" Rule="Demo-NP">
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Accusative" Cat="pron" Domain="" Gender="Feminine" Number="Singular" Rule="pron">ταύτην</Node>
+              </Node>
+              <Node Cat="np" Head="1" Rule="DetNP">
+                <Node Case="Accusative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τὴν</Node>
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Accusative" Cat="noun" Domain="Information" Gender="Feminine" Number="Singular" Rule="noun">διδαχὴν</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="ADV" Head="0" Rule="advp2ADV">
+            <Node Cat="advp" Head="0" Rule="Adv2Advp">
+              <Node Cat="adv" Domain="Not" Rule="adv">οὐ</Node>
+            </Node>
+          </Node>
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Cat="verb" Domain="Bringing" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">φέρει</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="CL" Head="0" Rule="Conj2CL">
+      <Node Cat="CL" Head="1" Rule="ADV-V-O-ADV">
+        <Node Cat="ADV" Head="0" Rule="advp2ADV">
+          <Node Cat="advp" Head="0" Rule="Adv2Advp">
+            <Node Cat="adv" Domain="Not" Rule="adv">μὴ</Node>
+          </Node>
+        </Node>
+        <Node Cat="V" Head="0" Rule="vp2V">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Taking" Mood="Imperative" Number="Plural" Person="Second" Rule="verb" Tense="Present" Voice="Active">λαμβάνετε</Node>
+          </Node>
+        </Node>
+        <Node Cat="O" Head="0" Rule="np2O">
+          <Node Cat="np" Head="0" Rule="Pron2NP">
+            <Node Case="Accusative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">αὐτὸν</Node>
+          </Node>
+        </Node>
+        <Node Cat="ADV" Head="0" Rule="pp2ADV">
+          <Node Cat="pp" Head="1" Rule="PrepNP">
+            <Node Cat="prep" Domain="" Rule="prep">εἰς</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Accusative" Cat="noun" Domain="PhysicalLocation" Gender="Feminine" Number="Singular" Rule="noun">οἰκίαν</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+      <Node Cat="CL" Head="3" Rule="O-IO-ADV-V">
+        <Node Cat="O" Head="0" Rule="CL2O">
+          <Node Cat="CL" Head="0" Rule="V2CL">
+            <Node Cat="V" Head="0" Rule="vp2V">
+              <Node Cat="vp" Head="0" Rule="V2VP">
+                <Node Cat="verb" Domain="Rejoicing" Mood="Infinitive" Rule="verb" Tense="Present" Voice="Active">χαίρειν</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+        <Node Cat="IO" Head="0" Rule="np2IO">
+          <Node Cat="np" Head="0" Rule="Pron2NP">
+            <Node Case="Dative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">αὐτῷ</Node>
+          </Node>
+        </Node>
+        <Node Cat="ADV" Head="0" Rule="advp2ADV">
+          <Node Cat="advp" Head="0" Rule="Adv2Advp">
+            <Node Cat="adv" Domain="Not" Rule="adv">μὴ</Node>
+          </Node>
+        </Node>
+        <Node Cat="V" Head="0" Rule="vp2V">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="" Mood="Imperative" Number="Plural" Person="Second" Rule="verb" Tense="Present" Voice="Active">λέγετε</Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:11:1-1:11:11">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="1" Rule="Conj-CL">
+    <Node Cat="conj" Domain="For" Rule="conj">γὰρ</Node>
+    <Node Cat="CL" Head="1" Rule="S-V-ADV">
+      <Node Cat="S" Head="0" Rule="np2S">
+        <Node Cat="np" Head="1" Rule="DetCL">
+          <Node Case="Nominative" Cat="det" Domain="" Gender="Masculine" Number="Singular" Rule="det">ὁ</Node>
+          <Node Cat="CL" Head="0" Rule="V-IO-O">
+            <Node Cat="V" Head="0" Rule="vp2V">
+              <Node Cat="vp" Head="0" Rule="V2VP">
+                <Node Case="Nominative" Cat="verb" Domain="" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">λέγων</Node>
+              </Node>
+            </Node>
+            <Node Cat="IO" Head="0" Rule="np2IO">
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Dative" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">αὐτῷ</Node>
+              </Node>
+            </Node>
+            <Node Cat="O" Head="0" Rule="CL2O">
+              <Node Cat="CL" Head="0" Rule="V2CL">
+                <Node Cat="V" Head="0" Rule="vp2V">
+                  <Node Cat="vp" Head="0" Rule="V2VP">
+                    <Node Cat="verb" Domain="Rejoicing" Mood="Infinitive" Rule="verb" Tense="Present" Voice="Active">χαίρειν</Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Giving" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">κοινωνεῖ</Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="np2ADV">
+        <Node Cat="np" Head="1" Rule="DetNP">
+          <Node Case="Dative" Cat="det" Domain="" Gender="Neuter" Number="Plural" Rule="det">τοῖς</Node>
+          <Node Cat="np" Head="0" Rule="NPDetAdj">
+            <Node Cat="np" Head="0" Rule="NPofNP">
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Dative" Cat="noun" Domain="Event" Gender="Neuter" Number="Plural" Rule="noun">ἔργοις</Node>
+              </Node>
+              <Node Cat="np" Head="0" Rule="Pron2NP">
+                <Node Case="Genitive" Cat="pron" Domain="" Gender="Masculine" Number="Singular" Rule="pron">αὐτοῦ</Node>
+              </Node>
+            </Node>
+            <Node Cat="np" Head="1" Rule="DetAdj">
+              <Node Case="Dative" Cat="det" Domain="" Gender="Neuter" Number="Plural" Rule="det">τοῖς</Node>
+              <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                <Node Case="Dative" Cat="adj" Domain="Quality" Gender="Neuter" Number="Plural" Rule="adj">πονηροῖς</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:12:1-1:12:26">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="Conj2CL">
+    <Node Cat="CL" Head="2" Rule="ADV-ADV-V-ADV">
+      <Node Cat="ADV" Head="0" Rule="CL2ADV">
+        <Node Cat="CL" Head="0" Rule="V-O">
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="V2VP">
+              <Node Case="Nominative" Cat="verb" Domain="Having" Gender="Masculine" Mood="Participle" Number="Singular" Rule="verb" Tense="Present" Voice="Active">ἔχων</Node>
+            </Node>
+          </Node>
+          <Node Cat="O" Head="0" Rule="CL2O">
+            <Node Cat="CL" Head="2" Rule="O-IO-V">
+              <Node Cat="O" Head="0" Rule="np2O">
+                <Node Cat="np" Head="0" Rule="Adj2NP">
+                  <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                    <Node Case="Accusative" Cat="adj" Domain="" Gender="Neuter" Number="Plural" Rule="adj">Πολλὰ</Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node Cat="IO" Head="0" Rule="np2IO">
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Dative" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ὑμῖν</Node>
+                </Node>
+              </Node>
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Cat="verb" Domain="Speaking" Mood="Infinitive" Rule="verb" Tense="Present" Voice="Active">γράφειν</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="advp2ADV">
+        <Node Cat="advp" Head="0" Rule="Adv2Advp">
+          <Node Cat="adv" Domain="Not" Rule="adv">οὐκ</Node>
+        </Node>
+      </Node>
+      <Node Cat="V" Head="0" Rule="vp2V">
+        <Node Cat="vp" Head="0" Rule="V2VP">
+          <Node Cat="verb" Domain="Desiring" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Aorist" Voice="Passive">ἐβουλήθην</Node>
+        </Node>
+      </Node>
+      <Node Cat="ADV" Head="0" Rule="pp2ADV">
+        <Node Cat="pp" Head="1" Rule="PrepNP">
+          <Node Cat="prep" Domain="" Rule="prep">διὰ</Node>
+          <Node Cat="np" Head="0" Rule="Conj2NP">
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Genitive" Cat="noun" Domain="" Gender="Masculine" Number="Singular" Rule="noun">χάρτου</Node>
+            </Node>
+            <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Genitive" Cat="noun" Domain="" Gender="Neuter" Number="Singular" Rule="noun">μέλανος</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node Cat="conj" Domain="Contrast" Rule="conj">ἀλλὰ</Node>
+    <Node Cat="CL" Head="0" Rule="ClCl">
+      <Node Cat="CL" Head="0" Rule="V-O">
+        <Node Cat="V" Head="0" Rule="vp2V">
+          <Node Cat="vp" Head="0" Rule="V2VP">
+            <Node Cat="verb" Domain="Hoping" Mood="Indicative" Number="Singular" Person="First" Rule="verb" Tense="Present" Voice="Active">ἐλπίζω</Node>
+          </Node>
+        </Node>
+        <Node Cat="O" Head="0" Rule="CL2O">
+          <Node Cat="CL" Head="0" Rule="Conj2CL">
+            <Node Cat="CL" Head="1" Rule="VC-P">
+              <Node Cat="VC" Head="0" Rule="vp2VC">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Cat="verb" Domain="" Mood="Infinitive" Rule="verb" Tense="Aorist" Voice="Middle">γενέσθαι</Node>
+                </Node>
+              </Node>
+              <Node Cat="P" Head="0" Rule="pp2P">
+                <Node Cat="pp" Head="1" Rule="PrepNP">
+                  <Node Cat="prep" Domain="" Rule="prep">πρὸς</Node>
+                  <Node Cat="np" Head="0" Rule="Pron2NP">
+                    <Node Case="Accusative" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ὑμᾶς</Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node Cat="conj" Domain="" Rule="conj">καὶ</Node>
+            <Node Cat="CL" Head="1" Rule="ADV-V">
+              <Node Cat="ADV" Head="0" Rule="np2ADV">
+                <Node Cat="np" Head="0" Rule="NP-PP">
+                  <Node Cat="np" Head="0" Rule="N2NP">
+                    <Node Case="Accusative" Cat="noun" Domain="BodyPart" Gender="Neuter" Number="Singular" Rule="noun">στόμα</Node>
+                  </Node>
+                  <Node Cat="pp" Head="1" Rule="PrepNP">
+                    <Node Cat="prep" Domain="" Rule="prep">πρὸς</Node>
+                    <Node Cat="np" Head="0" Rule="N2NP">
+                      <Node Case="Accusative" Cat="noun" Domain="BodyPart" Gender="Neuter" Number="Singular" Rule="noun">στόμα</Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node Cat="V" Head="0" Rule="vp2V">
+                <Node Cat="vp" Head="0" Rule="V2VP">
+                  <Node Cat="verb" Domain="Speaking" Mood="Infinitive" Rule="verb" Tense="Aorist" Voice="Active">λαλῆσαι</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+      <Node Cat="CL" Head="1" Rule="sub-CL">
+        <Node Cat="conj" Domain="That" Rule="conj">ἵνα</Node>
+        <Node Cat="CL" Head="1" Rule="S-V">
+          <Node Cat="S" Head="0" Rule="np2S">
+            <Node Cat="np" Head="1" Rule="DetNP">
+              <Node Case="Nominative" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">ἡ</Node>
+              <Node Cat="np" Head="0" Rule="NPofNP">
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Nominative" Cat="noun" Domain="Emotion" Gender="Feminine" Number="Singular" Rule="noun">χαρὰ</Node>
+                </Node>
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Genitive" Cat="pron" Domain="PersonReferral" Number="Plural" Rule="pron">ὑμῶν</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node Cat="V" Head="0" Rule="vp2V">
+            <Node Cat="vp" Head="0" Rule="VerbBe">
+              <Node Cat="vp" Head="0" Rule="V2VP">
+                <Node Case="Nominative" Cat="verb" Domain="Fulfilling" Gender="Feminine" Mood="Participle" Number="Singular" Rule="verb" Tense="Perfect" Voice="Passive">πεπληρωμένη</Node>
+              </Node>
+              <Node Cat="verb" Domain="Being" Mood="Subjunctive" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Active">ᾖ</Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+<Sentence ID="2Jn1:13:1-1:13:9">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="V-O-S">
+    <Node Cat="V" Head="0" Rule="vp2V">
+      <Node Cat="vp" Head="0" Rule="V2VP">
+        <Node Cat="verb" Domain="Speaking" Mood="Indicative" Number="Singular" Person="Third" Rule="verb" Tense="Present" Voice="Middle">Ἀσπάζεταί</Node>
+      </Node>
+    </Node>
+    <Node Cat="O" Head="0" Rule="np2O">
+      <Node Cat="np" Head="0" Rule="Pron2NP">
+        <Node Case="Accusative" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">σε</Node>
+      </Node>
+    </Node>
+    <Node Cat="S" Head="0" Rule="np2S">
+      <Node Cat="np" Head="1" Rule="DetNP">
+        <Node Case="Nominative" Cat="det" Domain="" Gender="Neuter" Number="Plural" Rule="det">τὰ</Node>
+        <Node Cat="np" Head="0" Rule="NPofNP">
+          <Node Cat="np" Head="0" Rule="N2NP">
+            <Node Case="Nominative" Cat="noun" Domain="FamilyRelation" Gender="Neuter" Number="Plural" Rule="noun">τέκνα</Node>
+          </Node>
+          <Node Cat="np" Head="1" Rule="DetNP">
+            <Node Case="Genitive" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τῆς</Node>
+            <Node Cat="np" Head="0" Rule="NPDetAdj">
+              <Node Cat="np" Head="0" Rule="NPofNP">
+                <Node Cat="np" Head="0" Rule="N2NP">
+                  <Node Case="Genitive" Cat="noun" Domain="FamilyRelation" Gender="Feminine" Number="Singular" Rule="noun">ἀδελφῆς</Node>
+                </Node>
+                <Node Cat="np" Head="0" Rule="Pron2NP">
+                  <Node Case="Genitive" Cat="pron" Domain="PersonReferral" Number="Singular" Rule="pron">σου</Node>
+                </Node>
+              </Node>
+              <Node Cat="np" Head="1" Rule="DetAdj">
+                <Node Case="Genitive" Cat="det" Domain="" Gender="Feminine" Number="Singular" Rule="det">τῆς</Node>
+                <Node Cat="adjp" Head="0" Rule="Adj2AdjP">
+                  <Node Case="Genitive" Cat="adj" Domain="Quality" Gender="Feminine" Number="Singular" Rule="adj">ἐκλεκτῆς</Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+</Sentences>

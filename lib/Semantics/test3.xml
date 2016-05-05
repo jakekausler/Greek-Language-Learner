@@ -1,0 +1,35 @@
+<Sentences>
+<Sentence ID="Mrk1:1:1-1:1:5">
+<Trees>
+<Tree>
+<Node Cat="S" Head="0" Rule="S">
+  <Node Cat="CL" Head="0" Rule="P2CL">
+    <Node Cat="P" Head="0" Rule="np2P">
+      <Node Cat="np" Head="0" Rule="NPofNP">
+        <Node Cat="np" Head="0" Rule="N2NP">
+          <Node Case="Nominative" Cat="noun" Domain="Time" Gender="Feminine" Number="Singular" Rule="noun">Ἀρχὴ</Node>
+        </Node>
+        <Node Cat="np" Head="1" Rule="DetNP">
+          <Node Case="Genitive" Cat="det" Domain="Article" Gender="Neuter" Number="Singular" Rule="det">τοῦ</Node>
+          <Node Cat="np" Head="0" Rule="NPofNP">
+            <Node Cat="np" Head="0" Rule="N2NP">
+              <Node Case="Genitive" Cat="noun" Domain="Information" Gender="Neuter" Number="Singular" Rule="noun">εὐαγγελίου</Node>
+            </Node>
+            <Node Cat="np" Head="0" Rule="NP-Appos">
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Genitive" Cat="noun" Domain="Name" Gender="Masculine" Number="Singular" Rule="noun">Ἰησοῦ</Node>
+              </Node>
+              <Node Cat="np" Head="0" Rule="N2NP">
+                <Node Case="Genitive" Cat="noun" Domain="JobTitle" Gender="Masculine" Number="Singular" Rule="noun">χριστοῦ</Node>
+              </Node>
+            </Node>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+  </Node>
+</Node>
+</Tree>
+</Trees>
+</Sentence>
+</Sentences>

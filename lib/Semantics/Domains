@@ -1,0 +1,284 @@
+REMEMBER:
+When looking for matches, look at the head of the nodes. For example, S-V-O in Mat1:2:1-1:6:7 has Ἀβραὰμ - Name S-V-O(this,Birthing,Person). Birthing gets γεννάω, but Person gets Ἰσαάκ, not ὁ.
+When more than one category can fit, split them with '/':
+	Person/Place
+[Category] is a placeholder referring to another structure in the tree (and all its children)
+
+Noun
+	Information
+		WrittenInformation
+			[ThingReferral]
+		NameInformation
+			[ThingReferral]]
+	Entity
+		CountableObject
+			LivingThing
+				Person
+					Name
+					FamilyRelation
+					JobTitle
+					[PersonReferral]
+					People
+						Nation
+					Title
+					Age
+				Group
+			Thing
+				[ThingReferral]
+				Clothing
+				Material
+					BodyPart	#(Something can be made of hair)
+				Food
+					Animal
+					Plant
+				Tool #(Axe)
+				Vehicle
+				Furniture
+					Thing
+				CelestialObject
+			Measurement
+	Sound
+	Problem
+	Concept
+		[ThingReferral]
+		Emotion
+		Life
+		Power
+	Event
+		TemporalEvent
+			[ThingReferral]
+		Activity
+	Location
+		GeographicalLocation
+			[PlaceReferral]
+			Region
+				Nation
+				City
+			PhysicalLocation
+			RelativeLocation #(Top)
+		Part
+			BodilyLocation
+			MemberPart #(Root)
+	Referral
+		PersonReferral
+		ThingReferral
+		PlaceRefferal
+	Time
+
+Adverb
+	Manner
+	QuestionWord (τις)
+	Degree #(Very)
+	TimeReference #(Now,Already,When)
+	LocationReference #(Down,Where)
+	Thusly (ουτως - 'To do so')
+	How
+	Only
+	Instead
+	Still
+	About
+
+Adjective
+	Quantity
+		Many
+			All
+		Number
+		Few
+			Only #(Alone)
+			Nothing #(No one, etc.)
+	Quality
+		GoodQuality
+		BadQuality
+		QualityComparison #(ex. 'better', 'more')
+			NumberComparison #(First,Last,etc.)
+		QualityQuestion ('How Great')
+	Type #(Other,Another,Same,etc.)
+		Different
+		Same
+	RegardsToWhere #(Ex. 'Surrounding')
+	GeographicalReferral #(Ex. 'Heavenly')
+	RegardsToWhen #(Ex. Daily)
+
+Verbs
+	Birthing
+	Naming
+	Happening
+	Engaging #(Marriage)
+	SexualRelationing
+	Finding
+	HavingQuality
+	Intending
+	Considering
+	Appearing
+	Taking
+	Fearing
+	Fulfilling
+	Speaking
+	Translating
+	Being
+	Raising
+	Going
+	Worshipping
+	Hearing
+	Troubling
+	Asking
+	Leading
+	Calling
+	Deciding
+	Sending
+	Standing
+	Rejoicing
+	Warning
+	Taking
+	Staying
+	Intending
+	Seeking
+	Harming
+	Angering
+	Harming
+	Crying
+	Comforting
+	Dying
+	Living
+	Repenting
+	Preparing
+	Making
+	BeingAble
+	Sitting
+	Throwing
+	Cleaning
+	Hindering
+	Allowing
+	BeingRight
+	Descending
+	Testing
+	Commanding
+	Becoming
+	Placing
+	Touching
+	Giving
+	Starting
+	Stopping
+	Leaving
+	Encouraging
+	Finishing #(Completing,Filling)
+	QualityChanging #(Becomes tastless)
+	BeingGood
+	Lighting
+	Doing
+	Fixing
+	Judging
+	Hating
+	Praying
+	BeingLike
+	Forgiving
+	Wearing
+	Growing
+	Turning
+	Falling
+	Blowing
+	BeingAmazed
+	Stretching
+	Lying
+	Surprising
+	Believing
+	Rising
+	Sleeping
+	Saving
+	Keeping
+	Mocking
+	BeingCompassionate
+	Tiring
+	Losing
+	Removing
+	Costing
+	Comparing
+	Performing
+	Building
+	Choosing
+	Burning
+	Hoping
+	Splitting
+	Shutting
+	Learning
+	Liking
+	Forcing
+	BeingAway
+	Owing
+	BeingAngry
+	Priding
+	Respecting
+	Caring
+	BeingWrong
+	Depending
+	Moving
+	BeingEvil
+	Planning
+	BeingSorry
+	Pricing
+	BeingUsedTo
+	Mixed
+	Meeting
+
+Conjunction
+	Continuation
+	Joining
+	Therefore
+	Because
+	That #(SoThat)
+	As
+	TimeConjunction #(Ex. 'When')
+	Either #(Goes with or - μεν...δε/η...η)
+	Or #(Goes with either - μεν...δε/η...η)
+	Contrast #(But,Lest,Or)
+	If
+	Also
+	Indeed
+	Perhaps
+
+Preposition
+	By
+	Temporal
+		After
+		AtTime
+		Before
+		Until
+		While
+		When
+	Locational
+		From
+		To
+		In
+		With
+		Above
+		Around
+		At
+		On
+		Behind
+		Under
+		Over
+		Between
+		Across
+	Realm
+		[In]
+	Agent
+		FromPerson
+		Through
+	AccordingTo
+	About #(Concering)
+	Of
+	Instead #(InsteadOf)
+	As
+	BecauseOf
+	Except
+	InOrderTo
+	Without
+	Against
+	Per (To each, apeice)
+	Every
+
+Exclamation
+
+Article
+
+Ever #(αν)

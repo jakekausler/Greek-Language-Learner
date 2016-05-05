@@ -1,0 +1,16 @@
+noun[Domain='Information',Case='Genitive',Gender='Neuter',Number='Singular'] --> {noun_Domain='Information',Case='Genitive',Gender='Neuter',Number='Singular'}
+S[Domain='Time'] --> P2CL-Head[Domain='Time']
+det[Domain='Article',Case='Genitive',Gender='Neuter',Number='Singular'] --> {det_Domain='Article',Case='Genitive',Gender='Neuter',Number='Singular'}
+P2CL[Domain='Time'] --> np2P-Head[Domain='Time']
+NP-Appos[Domain='Name'] --> N2NP-Head[Domain='Name'], N2NP[Domain='JobTitle']
+N2NP[Domain='JobTitle',Case='?c',Gender='?g',Number='?n'] --> noun-Head[Domain='JobTitle',Case='?c',Gender='?g',Number='?n']
+np2P[Domain='Time'] --> NPofNP-Head[Domain='Time']
+N2NP[Domain='Information',Case='?c',Gender='?g',Number='?n'] --> noun-Head[Domain='Information',Case='?c',Gender='?g',Number='?n']
+N2NP[Domain='Time',Case='?c',Gender='?g',Number='?n'] --> noun-Head[Domain='Time',Case='?c',Gender='?g',Number='?n']
+noun[Domain='Name',Case='Genitive',Gender='Masculine',Number='Singular'] --> {noun_Domain='Name',Case='Genitive',Gender='Masculine',Number='Singular'}
+noun[Domain='Time',Case='Nominative',Gender='Feminine',Number='Singular'] --> {noun_Domain='Time',Case='Nominative',Gender='Feminine',Number='Singular'}
+noun[Domain='JobTitle',Case='Genitive',Gender='Masculine',Number='Singular'] --> {noun_Domain='JobTitle',Case='Genitive',Gender='Masculine',Number='Singular'}
+NPofNP[Domain='Information'] --> N2NP-Head[Domain='Information'], NP-Appos[Domain='Name']
+N2NP[Domain='Name',Case='?c',Gender='?g',Number='?n'] --> noun-Head[Domain='Name',Case='?c',Gender='?g',Number='?n']
+NPofNP[Domain='Time'] --> N2NP-Head[Domain='Time'], DetNP[Domain='Information']
+DetNP[Domain='Information',Case='?c',Gender='?g',Number='?n'] --> det[Domain='Article',Case='?c',Gender='?g',Number='?n'], NPofNP-Head[Domain='Information',Case='?c',Gender='?g',Number='?n']

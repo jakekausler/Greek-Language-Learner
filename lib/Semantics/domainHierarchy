@@ -1,0 +1,56 @@
+Information
+	NameInformation
+Entity
+	CountableObject
+		LivingThing
+			Person
+				Name
+				FamilyRelation
+				JobTitle
+				[PersonReferral]
+				People
+					Nation
+				Title
+				Age
+			Group
+		Thing
+			[ThingReferral]
+			Clothing
+			Material
+				BodyPart	#(Something can be made of hair)
+			Food
+				Animal
+				Plant
+			Tool #(Axe)
+			Vehicle
+			Furniture
+				Thing
+			CelestialObject
+		Measurement
+Sound
+Problem
+Concept
+	[ThingReferral]
+	Emotion
+	Life
+	Power
+Event
+	TemporalEvent
+		[ThingReferral]
+	Activity
+Location
+	GeographicalLocation
+		[PlaceReferral]
+		Region
+			Nation
+			City
+		PhysicalLocation
+		RelativeLocation #(Top)
+	Part
+		BodilyLocation
+		MemberPart #(Root)
+Referral
+	PersonReferral
+	ThingReferral
+	PlaceRefferal
+Time

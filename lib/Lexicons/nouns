@@ -1,0 +1,3811 @@
+Geographical Objects and Features
+	Universe
+		n2a		κόσμος
+		n3f		αἰών
+		n3e		κτίσις
+	Regions Above the Earth
+		n2a		οὐρανός
+		n3f		ἀήρ
+		n3c		μεσουράνημα
+		n3d		ὕψος
+		n3c		ὕψωμα
+		n2a		παράδεισος
+		n1c		δόξα
+	Regions Below the Surface of the Earth
+		n3d		βάθος
+		n1f		ᾅδης
+		n2b		ἄβυσσος
+		n1c		γέεννα
+	Heavenly Bodies
+		n3f		φωστήρ
+		n2a		ἥλιος
+		n1b		σελήνη
+		n3f		ἀστήρ
+		n2c		ἄστρον
+	Atmospheric Objects
+		n1b		νεφέλη
+		n1b		ὁμίχλη
+		n3c		ἀτμίς
+		n2a		καπνός
+		n3c		ἶρις
+	The Earth’s Surface
+		n1h		γῆ
+		n1b		οἰκουμένη
+		n2a		κόσμος
+		n3d		ἔδαφος
+	Elevated Land Formations
+		n3d		ὄρος
+		n2a		βουνός
+		n3e		ὀφρῦς
+		n2a		κρημνός
+	Depressions and Holes
+		n3b		φάραγξ
+		n2a		χείμαρρος
+		n2d		χειμάρρους
+		n1b		ὀπή
+		n3c		χάσμα
+		n2a		βόθυνος
+		n2a		φωλεός
+		n2c		σπήλαιον
+		n3c		φρέαρ
+		n2a		σιρός
+		n2a		σειρός
+	Land in Contrast With the Sea
+		n1h		γῆ
+		n1a		χώρα
+		n3d		χεῖλος
+		n2a		αἰγιαλός
+		n2b		ἄμμος
+		n2b		νῆσος
+		n2c		νησίον
+	Bodies of Water
+		n1c		θάλασσα
+		n1b		λίμνη
+		n3d		πέλαγος
+		n2a		πόντος
+		n2a		βυθός
+		n2a		κόλπος
+		n3f		λιμήν
+		n2a		χείμαρρος
+		n2d		χειμάρρους
+		n1b		πηγή
+		n2a		ποταμός
+	Sociopolitical Areas
+		n1h		γῆ
+		n1a		χώρα
+		n3c		κλίμα
+		n2c		ὅριον
+		n3c		πατρίς
+	Governmental Administrative Areas
+		n1a		βασιλεία
+		n1b		οἰκουμένη
+		n1a		ἐπαρχεία
+		n3c		μερίς
+	Areas Which Are Uninhabited or Only Sparsely Populated
+		n1a		ἐρημία
+		n1a		χώρα
+		n2a		ἀγρός
+	Population Centers
+		n3e		πόλις
+		n1a		κολωνία
+		n3e		κωμόπολις
+		n1b		κώμη
+		n2a		ἀγρός
+		n1b		παρεμβολή
+	Pastures and Cultivated Lands
+		n1a		χώρα
+		n2c		χωρίον
+		n2a		ἀγρός
+		n2c		γεώργιον
+		n2a		κῆπος
+		n1b		νομή
+	Thoroughfares: Roads
+		n2b		ὁδός
+		n2b		τρίβος
+		n2c		ἄμφοδον
+		n2b		διέξοδος
+		n1a		πλατεῖα
+		n1b		ῥύμη
+		n2a		φραγμός
+		natural Substances
+	Elements
+	Air
+		n3f		ἀήρ
+	Fire
+		n3f		πῦρ
+		n3b		φλόξ
+		n1a		πυρά
+		n3c		φῶς
+		n1a		ἀνθρακιά
+	Water
+		n3c		ὕδωρ
+		n3c		ἰκμάς
+		n2a		ὑετός
+		n2a		κρύσταλλος
+		n3f		χιών
+		n1c		χάλαζα
+	Earth
+		n1h		γῆ
+		n3e		χοῦς
+		n2a		κονιορτός
+		n2a		βόρβορος
+		n2a		πηλός
+		n1a		πέτρα
+		n2a		λίθος
+		n2c		θεῖον
+		n2b		ψῆφος
+		n2b		ἄμμος
+	Precious and Semiprecious Stones and Substances
+		n3c		ἴασπις
+		n2b		σάπφιρος
+		n3f		χαλκηδών
+		n2a		σμάραγδος
+		n3b		σαρδόνυξ
+		n2c		σάρδιον
+		n2a		χρυσόλιθος
+		n2a		βήρυλλος
+		n2b		βήρυλλος
+		n2c		τοπάζιον
+		n2a		χρυσόπρασος
+		n2a		ὑάκινθος
+		n2b		ἀμέθυστος
+		n1f		μαργαρίτης
+		n2a		μάρμαρος
+		n2a		κρύσταλλος
+		n2b		ὕαλος
+	Metals
+		n2c		χρυσίον
+		n2a		χρυσός
+		n2a		ἄργυρος
+		n2c		ἀργύριον
+		n2a		ἀργυροκόπος
+		n2a		χαλκός
+		n2c		χαλκολίβανον
+		n2a		σίδηρος
+		n2a		ἰός
+		n3e		βρῶσις
+		n3e		χαλκεύς
+Plants
+	Plants
+		n1a		φυτεία
+	Trees
+		n2c		δένδρον
+		n1b		ὕλη
+		n2c		ξύλον
+		n1h		συκῆ
+		n2b		συκάμινος
+		n1a		συκομορέα
+		n3b		φοῖνιξ
+		n3b		φοίνιξ
+		n1a		ἐλαία
+		n2b		καλλιέλαιος
+		n2b		ἀγριέλαιος
+		n3f		ἐλαιών
+	Plants That Are Not Trees
+		n1b		βοτάνη
+		n2a		χόρτος
+		n2a		βάτος
+		n2b		βάτος
+		n1c		ἄκανθα
+		n2a		τρίβολος
+		n2a		κάλαμος
+		n3e		σίναπι
+		n2b		ἄψινθος
+		n2c		πήγανον
+		n2c		ἡδύοσμον
+		n2c		ἄνηθον
+		n2c		κύμινον
+		n2b		ὕσσωπος
+		n2b		ἄμπελος
+		n3f		ἀμπελών
+		n2c		λάχανον
+		n2c		ζιζάνιον
+		n2a		σῖτος
+		n2c		κρίνον
+	Fruit Parts of Plants
+		n2a		καρπός
+		n1a		ὀπώρα
+		n2a		κόκκος
+		n3c		σπέρμα
+		n2a		σπόρος
+		n2c		σῦκον
+		n2a		ὄλυνθος
+		n3e		βότρυς
+		n1b		σταφυλή
+		n1a		ἐλαία
+		n3e		στάχυς
+		n2a		σῖτος
+		n2c		σιτίον
+		n3f		ἅλων
+		n1b		κριθή
+		n2c		κεράτιον
+	Non-Fruit Parts of Plants
+		n1c		ῥίζα
+		n2a		χόρτος
+		n2a		κλάδος
+		n3c		κλῆμα
+		n2c		φύλλον
+		n3c		στιβάς
+		n2c		βάϊον
+		n3b		φοίνιξ
+		n3a		σκόλοψ
+		n2a		κάλαμος
+		n3d		ἄνθος
+		n2c		ἄχυρον
+		n1b		καλάμη
+		n3c		πιότης
+	Wood and Wood Products
+		n2c		ξύλον
+		n1b		ὕλη
+		n2c		φρύγανον
+		n3d		κάρφος
+		n3b		ἄνθραξ
+Animals
+	Animals
+		n2c		ζῷον
+		n2c		θηρίον
+		n3c		τετράπους
+		n3c		θρέμμα
+		n3d		κτῆνος
+		n2c		ὑποζύγιον
+		n1b		ἀγέλη
+		n2a		υἱός
+		n3b		ἀλώπηξ
+		n2a		λύκος
+		n2a		ἄρκος
+		n2b		ἄρκος
+		n3e		πάρδαλις
+		n3c		λέων
+		n3e		βοῦς
+		n2a		ταῦρος
+		n2a		μόσχος
+		n3e		δάμαλις
+		n2a		ἔριφος
+		n2c		ἐρίφιον
+		n2a		τράγος
+		n2c		πρόβατον
+		n3f		ἀρήν
+		n2a		ἀμνός
+		n2c		ἀρνίον
+		n3g		πάσχα
+		n3f		ποίμνη
+		n2a		ἵππος
+		n2a		κάμηλος
+		n2b		κάμηλος
+		n2a		ὄνος
+		n2b		ὄνος
+		n2a		πῶλος
+		n2c		ὀνάριον
+		n3f		κύων
+		n2c		κυνάριον
+		n2a		χοῖρος
+		n3e		ὗς
+	Birds
+		n2c		πετεινόν
+		n3c		ὄρνις
+		n2c		ὄρνεον
+		n2c		νοσσίον
+		n2a		νοσσός
+		n1a		νοσσιά
+		n2a		ἀετός
+		n3b		κόραξ
+		n1a		περιστερά
+		n3f		τρυγών
+		n3f		ἀλέκτωρ
+		n2c		στρουθίον
+	Insects
+		n3c		ἀκρίς
+		n3a		κώνωψ
+		n3c		σής
+	Reptiles and Other `Creeping Things’
+		n2c		ἑρπετόν
+		n3e		ὄφις
+		n3c		ἀσπίς
+		n1c		ἔχιδνα
+		n3c		δράκων
+		n2a		βάτραχος
+		n2a		σκορπίος
+		n3b		σκώληξ
+	Fishes and Other Sea Creatures
+		n3e		ἰχθύς
+		n2c		ἰχθύδιον
+		n3d		κῆτος
+Foods and Condiments
+	Food
+		n3c		χόρτασμα
+		n2a		ἐπισιτισμός
+		n2a		ἄρτος
+		n1b		τροφή
+		n1b		διατροφή
+		n3c		βρῶμα
+		n3e		βρῶσις
+		n2c		σιτίον
+		n2c		σιτομέτριον
+		n2c		ψωμίον
+		n2c		ψιχίον
+		n3b		ψίξ
+		n3e		πόσις
+		n3c		πόμα
+		n3c		βρῶμα
+		n3e		βρῶσις
+		n2a		ἄρτος
+		n2c		ἄλευρον
+		n3e		σεμίδαλις
+		n1b		ζύμη
+		n3d		κρέας
+		n2c		ὀψάριον
+		n2c		προσφάγιον
+		n2c		ᾠόν
+		n3c		γάλα
+		n2c		κηρίον
+		n3g		μάννα
+	Condiments
+		n2c		ἄμωμον
+		n2c		κιννάμωμον
+		n3f		ἅλς
+		n3c		ἅλας
+Artifacts
+	Artifacts
+		n3d		σκεῦος
+		n1b		σκευή
+		n2c		ὅπλον
+	Instruments Used in Agriculture and Husbandry
+		n2c		ἄροτρον
+		n2c		δρέπανον
+		n2c		πτύον
+		n2a		χαλινός
+		n2a		ζυγός
+		n2c		κέντρον
+	Instruments Used in Fishing
+		n2c		ἄγκιστρον
+		n2c		δίκτυον
+		n2c		ἀμφίβληστρον
+		n1b		σαγήνη
+	Instruments Used in Binding and Fastening
+		n2a		δεσμός
+		n1a		σειρά
+		n3e		ἅλυσις
+		n1b		πέδη
+		n2c		σχοινίον
+		n1a		ζευκτηρία
+		n3c		ἱμάς
+		n2c		ξύλον
+		n2a		ἧλος
+		n1a		σειρά
+	Traps
+		n3c		παγίς
+		n1a		θήρα
+		n2c		σκάνδαλον
+	Instruments Used in Punishment and Execution
+		n2c		φραγέλλιον
+		n2a		σταυρός
+		n2c		ξύλον
+	Weapons and Armor
+		n2c		ὅπλον
+		n1a		πανοπλία
+		n2c		ξύλον
+		n1a		ῥομφαία
+		n1c		μάχαιρα
+		n1b		λόγχη
+		n2a		ὑσσός
+		n3d		βέλος
+		n2c		τόξον
+		n1a		περικεφαλαία
+		n3b		θώραξ
+		n2a		θυρεός
+	Boats and Parts of Boats
+		n2c		πλοῖον
+		n2c		πλοιάριον
+		n3e		ναῦς
+		n2b		κιβωτός
+		n1b		σκάφη
+		n1c		πρῷρα
+		n1c		πρύμνα
+		n1a		ἄγκυρα
+		n3f		ἀρτέμων
+		n2c		πηδάλιον
+	Vehicles
+		n3c		ἅρμα
+		n1b		ῥέδη
+	Instruments Used in Marking and Writing
+		n3c		σφραγίς
+		n2a		κάλαμος
+		n3f		μέλαν
+		n1f		χάρτης
+		n1c		μεμβράνα
+		n2c		πινακίδιον
+		n3b		πλάξ
+		n3c		σφραγίς
+		n1b		ἐπιστολή
+		n3c		γράμμα
+		n2c		βιβλίον
+		n2b		βίβλος
+		n2c		βιβλαρίδιον
+		n1c		μεμβράνα
+		n3c		κεφαλίς
+	Money and Monetary Units
+		n3c		χρῆμα
+		n3c		νόμισμα
+		n3c		κέρμα
+		n2a		χαλκός
+		n2a		ἄργυρος
+		n2c		ἀργύριον
+		n2a		χρυσός
+		n2c		δηνάριον
+		n1b		δραχμή
+		n2c		ἀσσάριον
+		n1f		κοδράντης
+		n3f		στατήρ
+		n1h		μνᾶ
+		n2c		τάλαντον
+	Musical Instruments
+		n1a		κιθάρα
+		n2a		κιθαρῳδός
+		n2a		αὐλός
+		n1f		αὐλητής
+		n3b		σάλπιγξ
+		n1f		σαλπιστής
+		n2c		κύμβαλον
+	Images and Idols
+		n3f		εἰκών
+		n2a		τύπος
+		n3c		χάραγμα
+		n2c		εἴδωλον
+		n3g		χερούβ
+		n2a		ναός
+	Lights and Light Holders
+		n3c		λαμπάς
+		n3c		φῶς
+		n2a		φανός
+		n2a		λύχνος
+		n1a		λυχνία
+	Furniture
+		n1b		κλίνη
+		n2c		κλινίδιον
+		n2c		κλινάριον
+		n2a		κράβαττος
+		n1b		κοίτη
+		n2b		σορός
+		n2c		προσκεφάλαιον
+		n1a		καθέδρα
+		n2a		θρόνος
+		n1c		τράπεζα
+		n2c		θυσιαστήριον
+		n2a		βωμός
+		n2c		θυμιατήριον
+		n2c		ὑποπόδιον
+	Containers
+		n3d		σκεῦος
+		n1b		θήκη
+		n2c		ἀγγεῖον
+		n3d		ἄγγος
+		n2c		ποτήριον
+		n3f		νιπτήρ
+		n3c		ἄντλημα
+		n1b		φιάλη
+		n2b		στάμνος
+		n1f		ξέστης
+		n1a		ὑδρία
+		n2c		κεράμιον
+		n3e		κεραμεύς
+		n2c		χαλκίον
+		n2c		ἀλάβαστρον
+		n2a		ἀσκός
+		n2a		σπόγγος
+		n3b		πίναξ
+		n3c		παροψίς
+		n2c		τρύβλιον
+		n1b		φάτνη
+		n2a		λιβανωτός
+		n2b		κιβωτός
+		n2a		θησαυρός
+		n2c		γαζοφυλάκιον
+		n2c		δῶρον
+		n2c		γλωσσόκομον
+		n2c		βαλλάντιον
+		n1a		πήρα
+		n3e		κατασκήνωσις
+		n1b		σαργάνη
+		n3c		σπυρίς
+		n2a		κόφινος
+		n2a		μόδιος
+	Cloth
+		n3d		ῥάκος
+		n1b		ὀθόνη
+		n2c		ὀθόνιον
+		n3f		σινδών
+		n1a		κειρία
+		n3c		ἐπίβλημα
+		n2c		σουδάριον
+		n3c		καταπέτασμα
+		n2c		λέντιον
+		n3c		ἔνδυμα
+		n3c		ἐσθής
+		n2a		ἱματισμός
+		n2c		ἱμάτιον
+		n3f		χιτών
+		n2c		περιβόλαιον
+		n3c		σκέπασμα
+		n2a		σάκκος
+		n2c		λίνον
+		n2b		βύσσος
+		n1a		πορφύρα
+		n2c		ἔριον
+		n1f		ἐπενδύτης
+		n2c		ἱμάτιον
+		n2c		περιβόλαιον
+		n1f		φαιλόνης
+		n3c		χλαμύς
+		n1b		στολή
+		n3f		χιτών
+		n3c		κάλυμμα
+		n1b		ζώνη
+		n2c		σιμικίνθιον
+		n2c		κράσπεδον
+		n2a		κόλπος
+		n3c		ὑπόδημα
+		n2c		σανδάλιον
+		n3c		δέρμα
+		n3e		βυρσεύς
+		n1b		μηλωτή
+	Adornments
+		n2a		κόσμος
+		n2c		χρυσίον
+		n2a		δακτύλιος
+		n2a		στέφανος
+		n3c		στέμμα
+		n2c		κράσπεδον
+		n2c		φυλακτήριον
+		n3c		διάδημα
+	Plant Products
+		n2a		οἶνος
+		n3d		γλεῦκος
+		n3g		σίκερα
+		n3d		ὄξος
+		n2c		ἔλαιον
+	Medicines
+		n2c		κολλούριον
+	Perfumes and Incense
+		n2c		μύρον
+		n3c		ἄρωμα
+		n1c		σμύρνα
+		n1b		ἀλόη
+		n2b		νάρδος
+		n3c		θυμίαμα
+		n2a		λίβανος
+	Instruments for Measuring
+		n2a		κάλαμος
+		n2a		ζυγός
+	Miscellaneous
+		n3c		ῥαφίς
+		n1b		βελόνη
+		n3c		τρῆμα
+		n1b		ἀξίνη
+		n2b		ῥάβδος
+		n2a		κλῆρος
+		n3c		κλείς
+		n2c		ἔσοπτρον
+		n2b		ὕαλος
+		n2a		κέραμος
+		n2c		σκύβαλον
+Constructions
+	Constructions
+	Buildings
+		n2a		οἶκος
+		n1a		οἰκία
+		n3e		ἔπαυλις
+		n1b		αὐλή
+		n2c		πραιτώριον
+		n3c		σκήνωμα
+		n1b		σκηνή
+		n2a		σκηνοποιός
+		n3c		κατάλυμα
+		n2c		πανδοχεῖον
+		n3e		πανδοχεύς
+		n2c		ἀκροατήριον
+		n1b		σχολή
+		n2a		ναός
+		n2c		ἱερόν
+		n1b		σκηνή
+		n2c		εἰδωλεῖον
+		n1b		συναγωγή
+		n3c		ὀχύρωμα
+		n1b		παρεμβολή
+		n2a		πύργος
+		n2c		δεσμωτήριον
+		n1b		φυλακή
+		n3e		τήρησις
+		n1b		ἀποθήκη
+	Parts and Areas of Buildings
+		n3c		οἴκημα
+		n2c		ἀνάγαιον
+		n2c		ὑπερῷον
+		n3f		κοιτών
+		n3c		κατάλυμα
+		n1a		ξενία
+		n2c		ταμεῖον
+		n2a		θησαυρός
+		n1e		κορβανᾶς
+		n2c		γαζοφυλάκιον
+		n3f		νυμφών
+		n2a		γάμος
+		n2c		τρίστεγον
+		n2c		προαύλιον
+		n1a		θύρα
+		n1a		στοά
+		n2a		θεμέλιος
+		n2c		θεμέλιον
+		n3e		ἐνδώμησις
+		n2a		στῦλος
+		n2a		τοῖχος
+		n3c		θυρίς
+		n1b		πύλη
+		n3f		πυλών
+		n1b		στέγη
+		n3c		δῶμα
+		n2a		ἀναβαθμός
+		n2c		πτερύγιον
+	Open Constructions
+		n2c		θέατρον
+		n2c		στάδιον
+		n1b		αὐλή
+	Constructions for Holding Water
+		n1b		πηγή
+		n3c		φρέαρ
+		n1a		κολυμβήθρα
+	Walls and Fences
+		n2a		φραγμός
+		n3b		χάραξ
+		n3d		τεῖχος
+		n2c		μεσότοιχον
+	Miscellaneous Constructions
+		n3c		βῆμα
+		n1b		φάτνη
+		n3f		ἅλων
+		n2b		ληνός
+		n2c		ὑπολήνιον
+		n2a		μύλος
+		n3f		ἀφεδρών
+		n2b		κάμινος
+		n2a		κλίβανος
+		n2a		τάφος
+		n3c		μνῆμα
+		n2c		μνημεῖον
+	Building Materials
+		n3e		ἐνδώμησις
+		n2b		δοκός
+		n3c		σανίς
+Body, Body Parts, and Body Products
+	Body
+		n3c		σῶμα
+		n3b		σάρξ
+		n3d		σκῆνος
+		n3c		σκήνωμα
+		n3d		σκεῦος
+		n3c		πτῶμα
+		n2c		κῶλον
+	Parts of the Body
+		n3d		μέλος
+		n1b		κεφαλή
+		n2c		κρανίον
+		n3b		θρίξ
+		n1b		κόμη
+		n2c		ἔριον
+		n2c		μέτωπον
+		n3c		κέρας
+		n2c		πρόσωπον
+		n3e		ὄψις
+		n3c		στόμα
+		n3c		ὀδούς
+		n1c		γλῶσσα
+		n3f		σιαγών
+		n2a		ὀφθαλμός
+		n3c		ὄμμα
+		n3c		οὖς
+		n2c		ὠτίον
+		n2c		ὠτάριον
+		n2a		τράχηλος
+		n3b		λάρυγξ
+		n2a		ὦμος
+		n1b		ἀγκάλη
+		n3b		πτέρυξ
+		n3f		χείρ
+		n3f		αὐτόχειρ
+		n2a		δάκτυλος
+		n1b		πυγμή
+		n3d		στῆθος
+		n2a		μαστός
+		n3b		θώραξ
+		n2a		κόλπος
+		n2a		νῶτος
+		n1a		πλευρά
+		n3e		ὀσφῦς
+		n1a		οὐρά
+		n2c		κέντρον
+		n3d		σκέλος
+		n3c		γόνυ
+		n2a		μηρός
+		n3c		πούς
+		n3e		βάσις
+		n2c		σφυδρόν
+		n1c		πτέρνα
+		n3c		χρώς
+		n3c		ῥυτίς
+		n3c		στίγμα
+		n2a		τύπος
+		n3c		λεπίς
+		n2c		σπλάγχνον
+		n2a		ἁρμός
+		n1b		ἁφή
+		n2d		ὀστοῦν
+		n2c		ὀστέον
+		n2a		μυελός
+		n3b		σάρξ
+		n3c		αἷμα
+		n2a		θρόμβος
+		n2a		στόμαχος
+		n1a		κοιλία
+		n3f		γαστήρ
+		n1a		μήτρα
+	Physiological Products of the Body
+		n3c		ἐξέραμα
+		n3c		πτύσμα
+		n3c		ἱδρώς
+		n2c		δάκρυον
+		n2a		ἰός
+		n1b		χολή
+		n2c		κόπριον
+		n1a		κοπρία
+People
+	Human Beings
+		n2a		ἄνθρωπος
+		n3f		ἀνήρ
+		n2a		υἱός
+		n3c		σῶμα
+		n2c		πρόσωπον
+		n3b		σάρξ
+		n3c		γόνυ
+		n3f		χείρ
+		n1c		γλῶσσα
+		n3c		ὄνομα
+		n1b		ψυχή
+		n3d		σκεῦος
+		n1b		οἰκουμένη
+		n1h		γῆ
+		n2a		κόσμος
+	Males
+		n2a		ἄνθρωπος
+		n3f		ἀνήρ
+		n2a		εὐνοῦχος
+		n3c		γέρων
+		n1f		πρεσβύτης
+		n2a		νεανίσκος
+		n1d		νεανίας
+		n2a		παρθένος
+		n2b		παρθένος
+	Females
+		n3b		γυνή
+		n2c		γυναικάριον
+		n3c		πρεσβῦτις
+		n2a		παρθένος
+		n2b		παρθένος
+		n2c		κοράσιον
+	Children
+		n3c		παῖς
+		n2c		παιδίον
+		n2c		παιδάριον
+		n3d		βρέφος
+	Persons For Whom There Is Affectionate Concern
+		n2c		παιδίον
+		n2c		τέκνον
+		n2c		τεκνίον
+		n2a		υἱός
+		n3f		θυγάτηρ
+		n3g		ταλιθα
+Kinship Terms
+	Groups and Members of Groups of Persons Regarded as Related by Blood but without Special Reference to Successive Generations
+		n3d		γένος
+		n3b		σάρξ
+		n1b		φυλή
+		n2c		δωδεκάφυλον
+		n1a		γενεά
+		n1a		συγγένεια
+		n3c		συγγενίς
+		n2a		οἶκος
+		n1a		οἰκία
+		n2a		οἰκιακός
+	Kinship Relations Involving Successive Generations
+		n3f		πατήρ
+		n3f		μήτηρ
+		n3e		γονεύς
+		n1b		μάμμη
+		n3f		προπάτωρ
+		n1f		πατριάρχης
+		n1a		σπορά
+		n3e		γένεσις
+		n2a		οἶκος
+		n1a		πατριά
+		n1a		γενεαλογία
+		n1a		γενεά
+		n2c		τέκνον
+		n3c		σπέρμα
+		n2a		υἱός
+		n3f		θυγάτηρ
+		n3d		γένος
+		n1c		ῥίζα
+		n2c		τέκνον
+		n3c		παῖς
+		n2c		παιδίον
+		n2a		υἱός
+		n2c		πρωτοτόκια
+		n3f		θυγάτηρ
+		n2c		θυγάτριον
+	Kinship Relations of the Same Generation
+		n2a		ἀδελφός
+		n1b		ἀδελφή
+		n2a		ἀνεψιός
+	Kinship Relations Based upon Marriage
+		n2a		ἄνθρωπος
+		n3f		ἀνήρ
+		n3b		γυνή
+		n3d		σκεῦος
+		n2a		νυμφίος
+		n1b		νύμφη
+		n2a		πενθερός
+		n1a		πενθερά
+		n1b		νύμφη
+		n1a		χήρα
+Groups and Classes of Persons and Members of Such Groups and Classes
+	General
+		n2a		ὄχλος
+		n3d		πλῆθος
+		n2a		λαός
+		n2a		ὅμιλος
+		n3d		νέφος
+		n1a		γενεά
+		n1a		κλισία
+		n2c		συμπόσιον
+		n1a		πρασιά
+		n3d		μέρος
+	Socio-Religious
+		n2a		λαός
+		n3c		ἀδελφότης
+		n2a		ἀδελφός
+		n1b		ἀδελφή
+		n2a		ἀδελφός
+		n3f		πατήρ
+		n2c		ἀρνίον
+		n2c		πρόβατον
+		n2c		ποίμνιον
+		n1a		ἐκκλησία
+		n3c		σῶμα
+		n2a		Χριστιανός
+		n2a		ψευδάδελφος
+		n3f		Ἕλλην
+		n1b		συναγωγή
+		n1a		ἐφημερία
+		n2a		Σαδδουκαῖος
+		n2a		Φαρισαῖος
+		n3e		αἵρεσις
+		n1a		ἀκροβυστία
+		n2a		προσήλυτος
+	Socio-Political
+		n3d		ἔθνος
+		n2a		λαός
+		n1a		πατριά
+		n1b		φυλή
+		n1f		συμφυλέτης
+		n2a		ἀδελφός
+		n2a		τόπος
+		n3e		πόλις
+		n1b		κώμη
+		n2c		τέκνον
+		n1a		χώρα
+		n3f		θυγάτηρ
+		n1f		πολίτης
+		n2a		υἱός
+		n1a		πολιτεία
+		n3c		πολίτευμα
+		n1f		συμπολίτης
+		n1a		ἐκκλησία
+		n2a		δῆμος
+		n2c		συνέδριον
+		n1f		Ἀρεοπαγίτης
+		n1a		γερουσία
+		n2c		πρεσβυτέριον
+		n1f		βουλευτής
+		n2c		συμβούλιον
+		n2a		Ηρῳδιανοί
+		n1f		ζηλωτής
+		n2a		Καναναῖος
+		n3f		γείτων
+		n2a		ἀδελφός
+	Ethnic-Cultural
+		n3f		Ἕλλην
+		n1f		Ελληνιστής
+	Philosophical
+		n2a		Ἐπικούρειος
+Supernatural Beings and Powers
+	Supernatural Beings
+		n2a		θεός
+		n2b		θεός
+		n3g		ηλι
+		n3g		ελωι
+		n1b		μεγαλωσύνη
+		n3f		παντοκράτωρ
+		n3g		Σαβαώθ
+		n2a		κύριος
+		n3g		μαρανα
+		n3f		πατήρ
+		n3g		αββα
+		n3c		θεότης
+		n3c		θειότης
+		n2c		θεῖον
+		n2a		οὐρανός
+		n3c		πνεῦμα
+		n2a		παράκλητος
+		n2c		εἴδωλον
+		n1a		θεά
+		n2c		δαιμόνιον
+		n1b		δίκη
+		n2a		ἄγγελος
+		n2a		ἀρχάγγελος
+		n2c		ζῷον
+		n3c		πνεῦμα
+		n3f		δαίμων
+		n3c		φάντασμα
+	Supernatural Powers
+		n2c		στοιχεῖον
+		n1b		ἀρχή
+		n1a		ἐξουσία
+		n3f		κοσμοκράτωρ
+		n3e		δύναμις
+		n3c		κυριότης
+		n2a		θρόνος
+		n3c		ὕψωμα
+		n3d		βάθος
+		n3f		πύθων
+		n1c		δόξα
+Be,Become,Exist,Happen
+	State
+		n3c		ἥττημα
+		n3e		ἀθέτησις
+	Change of State
+		n3c		γένημα
+		n3e		μετάθεσις
+		n1b		προκοπή
+		n3e		πτῶσις
+		n3e		ἀνάστασις
+		n3e		ἀποκατάστασις
+	Exist
+		n3e		γένεσις
+		n3e		στάσις
+		n2a		ἀφανισμός
+		n1b		ἀποβολή
+	Happen
+		n3c		πρᾶγμα
+		n2a		λόγος
+		n3c		ῥῆμα
+		n1a		συγκυρία
+		n3e		τελείωσις
+		n1b		συγγνώμη
+		n1b		ἐγκοπή
+		n2a		ὄγκος
+Physical Events and States
+	Weather
+		n1a		εὐδία
+		n3f		χειμών
+	Wind
+		n2a		ἄνεμος
+		n3c		πνεῦμα
+		n1b		πνοή
+		n1c		θύελλα
+		n3a		λαῖλαψ
+		n2a		νότος
+		n3f		Εὐρακύλων
+	Rain
+		n2a		ὑετός
+		n1b		βροχή
+		n2a		ὄμβρος
+	Thunder and Lightning
+		n1b		βροντή
+		n1b		ἀστραπή
+	Events Involving Liquids and Dry Masses
+		n3e		ῥύσις
+		n2a		σεισμός
+		n1b		γαλήνη
+		n3c		κῦμα
+		n3f		κλύδων
+		n2a		σάλος
+		n2a		ἀφρός
+		n1c		πλήμμυρα
+		n2a		κατακλυσμός
+	Light
+		n3c		φῶς
+		n3d		φέγγος
+		n1a		ἡμέρα
+		n1b		ἀστραπή
+		n3c		ἀπαύγασμα
+		n3c		λαμπρότης
+		n1c		δόξα
+		n3f		φωστήρ
+	Darkness
+		n3d		σκότος
+		n1a		σκοτία
+		n2a		γνόφος
+		n2a		ζόφος
+		n3c		νύξ
+		n1a		σκιά
+		n3c		ἀποσκίασμα
+	Burning
+		n3e		καῦσις
+		n3e		πύρωσις
+		n3f		καύσων
+		n3c		καῦμα
+		n2b		σποδός
+	Sound
+		n1b		φωνή
+		n2a		φθόγγος
+		n2a		ἦχος
+		n3d		ἦχος
+		n2a		θόρυβος
+		n1a		συμφωνία
+	Movement of the Earth
+		n2a		σεισμός
+Linear Movement
+	Move
+		n3e		μετάθεσις
+	Travel
+		n1a		πορεία
+		n2b		ὁδός
+		n1a		ὁδοιπορία
+		n1f		πλανήτης
+	Pass
+		n2b		πάροδος
+	Leave
+		n3e		ἄφιξις
+		n1b		φυγή
+		n2b		ἔξοδος
+	Come Near
+		n3e		ἀπάντησις
+		n3e		ὑπάντησις
+	Come
+		n3e		ἔλευσις
+		n1a		παρουσία
+		n2b		εἴσοδος
+	Return
+	Come/Go Into
+	Come/Go Onto
+	Come/Go Up
+		n3e		ἀνάλημψις
+		n1b		ἀνατολή
+	Come/Go Down
+		n3e		κατάβασις
+	Fall
+	Gather
+		n1b		ἐπισυναγωγή
+		n1b		συνδρομή
+	Disperse
+		n1a		διασπορά
+	Come/Go Prior To
+	Come/Go In Front Of
+	Come/Go Behind
+	Go Around
+	Come/Go With
+		n1a		συνοδία
+		n2a		συνέκδημος
+	Follow
+	Pursue
+	Drive Along
+	Lead
+		n2a		ὁδηγός
+		n2c		χειραγωγός
+	Carry
+		n2c		φορτίον
+	Pull
+	Throw
+		n1b		βολή
+		n1b		ἐκβολή
+	Movement with Speed
+	Goal-Oriented Movement
+	Walk,Step
+		n3c		πρόσκομμα
+	Run
+	Jump,Leap
+	Dance
+		n2a		χορός
+	Fly
+	Swim
+	Roll
+		non-Linear Movement
+	Non-Linear Movement
+		n3e		κίνησις
+		n1b		ταραχή
+		n1b		ῥιπή
+		n2a		τρόμος
+		n1b		τροπή
+		n2a		κυλισμός
+Stances and Events Related to Stances
+	Stand
+		n3g		κουμ
+	Sit
+	Kneel
+	Prostrate
+	Prostrate as an Act of Reverence or Supplication
+	Recline
+	Lie
+	Bend Over
+Attachment
+	Grasp
+		n1a		ἄγρα
+	Fasten
+		n1b		δέσμη
+		n2a		σύνδεσμος
+Physical Impact
+	Hit
+		n1b		πληγή
+		n3c		ῥάπισμα
+		n3b		μάστιξ
+		n3c		ἱμάς
+	Pierce
+		n1b		κατατομή
+	Split
+		n3c		σχίσμα
+	Break
+		n3e		κλάσις
+		n3c		κλάσμα
+	Press
+	Dig
+Violence,Harm,Destroy,Kill
+	Violence
+		n1a		βία
+		n1f		βιαστής
+	Harm
+		n3e		κάκωσις
+		n1b		καταστροφή
+		n3e		ὕβρις
+		n3c		τραῦμα
+		n3a		μώλωψ
+		n1b		πληγή
+	Destroy
+		n1a		ἀπώλεια
+		n2a		ὄλεθρος
+		n1f		ὀλοθρευτής
+		n1a		φθορά
+		n3e		ἐρήμωσις
+		n1b		καταστροφή
+		n3e		πτῶσις
+		n3e		καθαίρεσις
+		n3c		ῥῆγμα
+		n3c		σύντριμμα
+	Kill
+		n3f		μάρτυς
+		n1c		μάχαιρα
+		n2c		κέντρον
+		n3f		σπεκουλάτωρ
+		n3e		ἀναίρεσις
+		n1b		σφαγή
+		n1b		κοπή
+		n2a		φόνος
+		n3c		αἷμα
+		n3e		φονεύς
+		n2a		ἀνδροφόνος
+		n2a		ἀνθρωποκτόνος
+		n2a		σικάριος
+		n1d		μητρολῴας
+		n1d		πατρολῴας
+Danger,Risk,Safe,Save
+	Danger
+		n2a		κίνδυνος
+		n3c		παγίς
+		n3c		σπιλάς
+	Expose Oneself to Danger
+	Safe
+		n1a		ἀσφάλεια
+		n2a		στηριγμός
+	Become Safe
+		n3e		ἔκβασις
+	Cause To Be Safe
+		n1a		σωτηρία
+		n3f		σωτήρ
+	Save in a Religious Sense
+		n1a		σωτηρία
+		n3f		σωτήρ
+Trouble,Hardship,Belief,Favorable Circumstances
+	Trouble
+		n1b		ἀνάγκη
+		n3e		θλῖψις
+		n3d		βάρος
+		n1a		κακία
+		n2a		λοιμός
+		n2a		κόπος
+		n1a		στενοχωρία
+		n1a		ταλαιπωρία
+		n1b		πληγή
+		n1b		προσκοπή
+	Experience Trouble
+	Cause Trouble
+	Difficult
+	Relief from Trouble
+		n3e		ἀνάψυξις
+		n3e		ἄνεσις
+		n3e		ἀνάπαυσις
+	Easy
+	Favorable Circumstances or State
+		n1b		εἰρήνη
+		n1a		ἡσυχία
+Physiological Processes and States
+	Eat
+		n3e		βρῶσις
+		n3f		γαστήρ
+		n2c		ἄριστον
+		n2c		δεῖπνον
+		n1c		τράπεζα
+		n1b		δοχή
+		n1b		ἀγάπη
+		n3c		νῆστις
+		n3e		νῆστις
+		n1a		νηστεία
+		n2a		λιμός
+		n2b		λιμός
+		n1a		ἀσιτία
+		n3e		πόσις
+		n3d		δίψος
+	Processes Involving the Mouth, other than eating or drinking
+	Birth
+		n3e		γένεσις
+		n1a		τεκνογονία
+		n3c		γέννημα
+		n3f		ὠδίν
+		n3c		ἔκτρωμα
+		n1a		στεῖρα
+		n3e		νέκρωσις
+	Sexual Relations
+		n1b		κοίτη
+		n1a		παρθενία
+		n3e		χρῆσις
+	Sleep, Waking
+		n3e		κοίμησις
+		n2a		ὕπνος
+		n1a		ἀγρυπνία
+	Tire,Rest
+		n3e		ἀνάπαυσις
+		n3e		κατάπαυσις
+	Live,Die
+		n1b		ζωή
+		n1b		ψυχή
+		n3b		σάρξ
+		n3e		ἀνάστασις
+		n3e		ἐξανάστασις
+		n3e		ἔγερσις
+		n2a		θάνατος
+		n3e		νέκρωσις
+		n3e		ἀνάλυσις
+		n2b		ἔξοδος
+		n1b		τελευτή
+		n3c		αἷμα
+		n1f		ᾅδης
+		n1a		ἀθανασία
+	Health
+		n1a		ὁλοκληρία
+		n3e		ἴασις
+		n3c		ἴαμα
+		n1a		θεραπεία
+		n2a		ἰατρός
+	Sickness
+		n1a		ἀσθένεια
+		n3b		μάστιξ
+		n1a		μαλακία
+		n2b		νόσος
+		n3c		νόσημα
+		n2a		δεσμός
+		n1b		πληγή
+		n2a		θάνατος
+		n2a		πυρετός
+		n2c		δυσεντέριον
+		n1a		λέπρα
+		n1c		γάγγραινα
+		n3d		ἕλκος
+		n1a		αἱματεκχυσία
+		n2a		λοιμός
+	Breathe
+		n3c		πνεῦμα
+		n1b		πνοή
+	Grow
+		n3e		αὔξησις
+	Ripen
+	Rot
+		n1a		φθορά
+		n1a		διαφθορά
+Sensory Events and States
+	See
+		n3d		εἶδος
+		n3c		ὅραμα
+		n1a		θεωρία
+		n2c		θέατρον
+		n2a		ὀφθαλμός
+		n1a		ἐπιφάνεια
+		n2c		πρόσωπον
+		n3e		ὅρασις
+		n3c		αἴνιγμα
+		n3e		ἀνάβλεψις
+		n1f		αὐτόπτης
+		n1f		ἐπόπτης
+		n3e		παρατήρησις
+		n3c		βλέμμα
+	Hear
+		n1b		ἀκοή
+		n3c		οὖς
+		n1f		ἀκροατής
+	Smell
+		n3e		ὄσφρησις
+	Taste
+	Touch
+	Pain
+		n2a		πόνος
+		n3c		πάθημα
+		n2c		κέντρον
+		n3f		ὠδίν
+		n1a		κακοπάθεια
+		n2b		βάσανος
+		n2a		βασανισμός
+		n3e		πύρωσις
+	General Sensory Perception
+Attitudes and Emotions
+	Desire
+		n3e		θέλησις
+		n3c		θέλημα
+		n3c		βούλημα
+		n1a		εὐδοκία
+	Desire Strongly
+		n1f		ἐπιθυμητής
+		n1b		πλησμονή
+		n1a		ἐπιποθία
+		n3e		ἐπιπόθησις
+		n2a		θυμός
+		n1a		ἐπιθυμία
+		n1a		πλεονεξία
+		n1f		πλεονέκτης
+		n1b		ἁρπαγή
+		n1b		ἡδονή
+		n1a		κοιλία
+		n3d		πάθος
+		n3c		πάθημα
+	Love
+		n1a		φιλία
+		n1a		φιλαδελφία
+		n1a		φιλανθρωπία
+		n1b		ἀγάπη
+		n2a		ζῆλος
+		n3d		ζῆλος
+		n2c		σπλάγχνον
+	Hope
+		n3c		ἐλπίς
+		n1a		ἀποκαραδοκία
+	Be Willing
+	Be Eager
+		n1a		προθυμία
+		n1a		ἐκτένεια
+		n1a		εὔνοια
+		n1b		σπουδή
+		n1f		ζηλωτής
+	Content
+		n1a		αὐτάρκεια
+	Acceptable To
+		n1a		εὐδοκία
+		n3c		χάρις
+		n1a		ἀρεσκεία
+	Thankful
+	Enjoy
+		n1a		φιλαργυρία
+		n1b		ἡδονή
+		n3e		ἀπόλαυσις
+	Happy
+		n3c		ἱλαρότης
+		n2a		μακαρισμός
+		n1b		εὐφροσύνη
+		n1a		χαρά
+		n3e		ἀγαλλίασις
+	Laugh
+		n2a		κλαυθμός
+		n1b		κραυγή
+		n3d		πένθος
+		n2a		στεναγμός
+		n3c		γέλως
+	Encouragement
+		n3e		ἀνάψυξις
+		n3e		παράκλησις
+		n2c		παραμύθιον
+		n1a		παραμυθία
+		n1a		παρηγορία
+	Courage
+		n1a		παρρησία
+		n1f		τολμητής
+	Patience
+		n1a		μακροθυμία
+		n1b		ἀνοχή
+		n1b		ὑπομονή
+	Offend
+		n2c		σκάνδαλον
+		n1b		προσκοπή
+		n3c		πρόσκομμα
+	Abhor
+		n3c		βδέλυγμα
+	Shame
+		n1b		αἰσχύνη
+		n1b		ἐντροπή
+		n1b		ἀσχημοσύνη
+	Pride
+		n3c		καύχημα
+		n3e		καύχησις
+		n1c		δόξα
+	Surprise
+		n2c		θάμβος
+		n3d		θάμβος
+		n3c		θαῦμα
+		n3e		ἔκστασις
+	Worry
+		n1c		μέριμνα
+		n1b		ὀδύνη
+		n3e		ἐπίστασις
+		n1b		συνοχή
+		n2a		τάραχος
+		n1b		εἰρήνη
+	Fear
+		n2a		φόβος
+		n2c		φόβητρον
+		n3e		πτόησις
+		n1a		δειλία
+		n1a		ἀσθένεια
+	Sorrow
+		n1b		λύπη
+		n1a		ἀγωνία
+	Discouragement
+		n1a		κατήφεια
+Psychological Faculties
+	Psychological Faculties
+		n1a		καρδία
+		n1b		ψυχή
+		n3b		σάρξ
+		n3c		πνεῦμα
+		n2c		σπλάγχνον
+		n1a		κοιλία
+		n2a		νεφρός
+		n1b		ὁρμή
+		n3e		συνείδησις
+		n3e		νοῦς
+		n3c		νόημα
+		n1a		διάνοια
+		n3f		φρήν
+		n3e		φρόνησις
+		n2c		φρόνημα
+Learn
+	Learn
+		n1f		μαθητής
+		n3c		γράμμα
+		n3e		γραμματεύς
+		n1f		ἰδιώτης
+	Learn the Location of Something
+	Learn Something Against Someone
+	Try To Learn
+		n3e		ζήτησις
+		n1b		δοκιμή
+		n2c		δοκίμιον
+		n1a		δοκιμασία
+		n2a		πειρασμός
+		n2a		κατάσκοπος
+	Be Willing To Learn
+		n3e		πώρωσις
+	Be Ready To Learn
+	Recognize
+Know
+	Know
+		n3e		γνῶσις
+		n3e		ἐπίγνωσις
+		n3e		συνείδησις
+		n3e		πρόγνωσις
+		n1a		σοφία
+		n1f		γνώστης
+		n1f		καρδιογνώστης
+		n1a		ἄγνοια
+		n1a		ἀγνωσία
+	Known
+		n3e		γνῶσις
+		n3e		ἐπίγνωσις
+		n3e		πρόγνωσις
+	Well Known
+		n3e		φανέρωσις
+		n2a		φωτισμός
+		n3e		ἀποκάλυψις
+		n2a		χρηματισμός
+		n3e		βεβαίωσις
+		n2c		τεκμήριον
+		n3c		δεῖγμα
+		n3e		ἔνδειξις
+		n3c		ἔνδειγμα
+		n3e		ἀπόδειξις
+		n3c		ἐπικάλυμμα
+	Able To Be Known
+	Not Able To Be Known
+		n2c		μυστήριον
+		n1b		κρύπτη
+Memory and Recall
+	Storing of Information
+	Recalling from Memory
+		n3c		μνήμη
+		n1a		μνεία
+		n3e		ὑπόμνησις
+		n3e		ἀνάμνησις
+		n2c		μνημόσυνον
+	Not Remembering
+		n1b		ἐπιλησμονή
+		n1b		λήθη
+	Recalling and Responding with Appropriate Action
+		n1a		μνεία
+Think
+	To Think
+		n3e		νοῦς
+		n1a		διάνοια
+		n1a		ἔννοια
+		n3c		πνεῦμα
+		n2a		διαλογισμός
+		n2a		λογισμός
+		n2a		λόγος
+		n3e		ὄψις
+		n3e		ἐνθύμησις
+		n3c		νόημα
+		n1a		διάνοια
+		n3c		διανόημα
+		n3e		κατάνυξις
+		n1a		μανία
+		n1a		παραφρονία
+	To Think About
+		n1a		πρόνοια
+		n3e		πάρεσις
+	To Think Concerning Future Contingencies
+		n1b		ἐκδοχή
+		n1a		προσδοκία
+	To Intend
+		n3c		βούλημα
+		n1b		βουλή
+		n3c		θέλημα
+		n3e		πρόθεσις
+		n1a		ἔννοια
+		n1a		ἐπίνοια
+		n1b		γνώμη
+		n1a		οἰκονομία
+		n1f		ἐφευρετής
+		n1b		ἐπιβουλή
+		n1b		συστροφή
+		n1a		συνωμοσία
+		n2c		συμβούλιον
+	To Decide
+		n3c		πρόκριμα
+	To Choose
+		n1b		ἐκλογή
+	To Distinguish
+		n3e		κρίσις
+		n3c		κρίμα
+		n3e		διάκρισις
+		n1a		ἐξουσία
+Hold a View,Believe,Trust
+	Have an Opinion
+		n1b		γνώμη
+	Hold a Wrong View
+		n1b		πλάνη
+		n1b		ἀπάτη
+		n1f		φρεναπάτης
+	Agree
+		n1b		γνώμη
+		n3e		συμφώνησις
+		n3e		συγκατάθεσις
+		n1f		μεσίτης
+	Acknowledge
+	Suppose
+		n1a		ὑπόνοια
+		n3e		ἐκζήτησις
+	Believe To Be True
+		n2a		διαλογισμός
+		n1a		ἀσφάλεια
+		n3e		πίστις
+		n1a		πληροφορία
+	Accept As True
+		n1b		ἀποδοχή
+		n1b		ἀκοή
+	Change an Opinion Concerning Truth
+		n1b		ἐπιστροφή
+	Trust,Rely
+		n3e		ὑπόστασις
+		n3e		πίστις
+		n1a		ἀπιστία
+		n3c		ἑδραίωμα
+		n1a		ὀλιγοπιστία
+		n1a		ἀπιστία
+	Be a Believer
+		n3e		πίστις
+		n1a		ἀπιστία
+		n1a		ἀπείθεια
+Understand
+	Understand
+		n3e		σύνεσις
+		n1a		ἀγνωσία
+		n1a		ἀπορία
+	Come To Understand
+		n3e		γνῶσις
+	Ease or Difficulty in Understanding
+		n3c		αἴνιγμα
+	Capacity for Understanding
+		n2a		ὀφθαλμός
+		n3e		σύνεσις
+		n3e		αἴσθησις
+		n2c		αἰσθητήριον
+		n3e		φρόνησις
+		n1a		σοφία
+		n2a		σωφρονισμός
+		n1b		σωφροσύνη
+		n1a		φιλοσοφία
+		n2a		φιλόσοφος
+		n2a		μάγος
+	Lack of Capacity for Understanding
+		n1a		ἄνοια
+		n1b		ἀφροσύνη
+		n1a		μωρία
+		n3g		ῥακά
+Communication
+	Language
+		n1b		φωνή
+		n2b		διάλεκτος
+		n1c		γλῶσσα
+	Word
+		n3c		ῥῆμα
+		n2a		τόπος
+		n1b		περιοχή
+		n1b		γραφή
+	Discourse Types
+		n3e		διήγησις
+		n2c		κεφάλαιον
+		n2a		μῦθος
+		n1a		παροιμία
+		n1b		παραβολή
+		n3e		γένεσις
+		n2a		ἀσπασμός
+		n1f		ποιητής
+	Language Levels
+		n1a		χρηστολογία
+		n1a		πιθανολογία
+		n1a		αἰσχρολογία
+		n1a		εὐτραπελία
+	Written Language
+		n3c		γράμμα
+		n3g		ἰῶτα
+		n1a		κεραία
+		n2b		βίβλος
+		n2c		βιβλίον
+		n2c		χειρόγραφον
+		n2c		ἀποστάσιον
+		n1b		ἀπογραφή
+		n2a		τίτλος
+		n3c		σφραγίς
+		n1b		ἐπιγραφή
+		n1b		ἐπιστολή
+		n2a		λόγος
+		n1b		γραφή
+		n2a		νόμος
+		n3g		Μωϋσῆς
+		n3e		ἀνάγνωσις
+	Speak
+		n1b		προσαγωγή
+		n3c		στόμα
+		n1c		γλῶσσα
+		n3d		χεῖλος
+		n1b		φωνή
+		n1b		βοή
+		n1b		κραυγή
+		n1a		πολυλογία
+		n2c		λόγιον
+		n3c		ῥῆμα
+		n2a		λόγος
+		n1a		λαλιά
+		n2a		φθόγγος
+	Sing
+		n1b		ᾠδή
+		n2a		ψαλμός
+		n2a		ὕμνος
+		n2a		θρῆνος
+	Keep Silent
+		n1a		ἡσυχία
+		n1b		σιγή
+	Name
+		n3c		ὄνομα
+	Interpret
+		n3e		δύναμις
+		n3e		ἐπίλυσις
+		n1f		διερμηνευτής
+		n1a		ἑρμηνεία
+	Converse
+	Ask For
+		n3c		ἐπερώτημα
+		n3c		αἴτημα
+		n3e		δέησις
+		n1a		ἱκετηρία
+		n1f		προσαίτης
+	Pray
+		n1b		εὐχή
+		n1b		προσευχή
+	Question
+		n3e		ἀπόκρισις
+	Inform
+		n1a		ἀγγελία
+		n2a		ἀπόστολος
+		n2a		ἄγγελος
+		n3f		σπεκουλάτωρ
+		n3e		καταγγελεύς
+		n3e		φάσις
+		n1b		φήμη
+		n3d		ἦχος
+		n1b		ἀκοή
+		n2c		εὐαγγέλιον
+	Assert
+	Teach
+		n1b		διδαχή
+		n1a		διδασκαλία
+		n1a		παιδεία
+		n1a		νουθεσία
+		n3e		παράδοσις
+		n3e		αἵρεσις
+		n2a		διδάσκαλος
+		n1f		παιδευτής
+		n1f		καθηγητής
+		n3g		ῥαββί
+		n3g		ραββουνι
+		n2a		νομοδιδάσκαλος
+		n2a		ψευδοδιδάσκαλος
+	Speak Truth
+		n3d		ψεῦδος
+		n3c		ψεῦσμα
+		n1f		ψεύστης
+	Preach
+		n3c		κήρυγμα
+		n3b		κῆρυξ
+		n2a		λόγος
+	Witness
+		n1a		μαρτυρία
+		n2c		μαρύριον
+		n3f		μάρτυς
+		n1a		ψευδομαρτυρία
+		n3f		ψευδόμαρτυς
+		n2c		μαρτύριον
+	Profess Allegiance
+		n1a		ὁμολογία
+	Admit
+	Agree
+		n1a		ἐπαγγελία
+	Foretell
+	Promise
+		n3c		ἐπάγγελμα
+		n1a		ἐπαγγελία
+		n3e		πίστις
+	Threaten
+		n1b		ἀπειλή
+	Advise
+		n2a		σύμβουλος
+	Urge,Persuade
+		n1b		πεισμονή
+		n3e		πειθώ
+	Call
+		n3e		κλῆσις
+	Invite
+		n3e		κλῆσις
+	Insist
+	Command/Order
+		n3c		κέλευσμα
+		n1b		ἐπιταγή
+		n1b		διαταγή
+		n3c		διάταγμα
+		n1a		παραγγελία
+		n1b		ἐντολή
+		n3c		ἔνταλμα
+		n3c		δόγμα
+	Law,Regulation,Ordinance
+		n2a		νόμος
+		n3c		δόγμα
+		n3c		δικαίωμα
+		n3f		κανών
+		n1a		νομοθεσία
+		n1f		νομοθέτης
+	Recommend,Propose
+	Intercede
+		n3e		ἔντευξις
+	Thanks
+		n1a		εὐχαριστία
+		n3c		χάρις
+	Praise
+		n2a		αἶνος
+		n3e		αἴνεσις
+		n2a		ἔπαινος
+		n1a		εὐλογία
+		n1a		εὐφημία
+		n1c		δόξα
+		n3g		ἁλληλουϊά
+		n3g		ὡσαννά
+	Flatter
+		n1a		εὐλογία
+		n1a		κολακεία
+	Boast
+		n3c		καύχημα
+		n3e		καύχησις
+	Foolish Talk
+		n1a		κενοφωνία
+		n1a		ματαιολογία
+		n1a		μωρολογία
+		n2a		λῆρος
+	Complain
+		n2a		γογγυσμός
+		n1b		μομφή
+		n1f		γογγυστής
+	Insult,Slander
+		n1a		καταλαλιά
+		n2a		ὀνειδισμός
+		n3e		ὕβρις
+		n1f		ὑβριστής
+		n1a		λοιδορία
+		n2a		λοίδορος
+		n1a		δυσφημία
+		n1a		βλασφημία
+	Gossip
+		n2a		ψιθυρισμός
+		n1f		ψιθυριστής
+	Mock,Ridicule
+		n2a		ἐμπαιγμός
+		n1b		ἐμπαιγμονή
+		n1f		ἐμπαίκτης
+	Criticize
+		n2a		ἀπελεγμός
+	Rebuke
+		n3e		ἔλεγξις
+		n2a		ἐλεγμός
+	Warn
+		n1a		νουθεσία
+	Accuse,Blame
+		n1a		κατηγορία
+		n3f		κατήγωρ
+		n2a		κατήγορος
+	Defend,Excuse
+		n1a		ἀπολογία
+		n3e		πρόφασις
+	Dispute,Debate
+		n3e		συζήτησις
+		n3c		ζήτημα
+		n3e		ζήτησις
+		n1f		συζητητής
+		n3e		ἐκζήτησις
+		n3e		διάκρισις
+		n1a		ἀντιλογία
+	Argue,Quarrel
+		n2a		διαλογισμός
+		n3c		ἔρις
+		n3e		στάσις
+		n1a		φιλονεικία
+		n2a		παροξυσμός
+		n1b		διαπαρατριβή
+		n1a		λογομαχία
+	Oppose,Contradict
+		n1a		ἀντιλογία
+		n3e		ἀντίθεσις
+	Prophesy
+		n1a		προφητεία
+	Swear,Put Under Oath
+		n2a		ὅρκος
+		n1a		ὁρκωμοσία
+		n1b		εὐχή
+	Bless,Curse
+		n1a		εὐλογία
+		n1a		ἀρά
+		n1a		κατάρα
+		n3c		ἀνάθεμα
+		n3c		κατάθεμα
+	Non-Verbal Communication
+		n2c		σύσσημον
+		n2c		σημεῖον
+		n3c		τέρας
+		n3c		στίγμα
+		n3c		χάραγμα
+		n3c		σφραγίς
+		n3c		ὄναρ
+		n2c		ἐνύπνιον
+		n3e		ὅρασις
+		n3c		ὅραμα
+		n1a		ὀπτασία
+		n3e		ἔκστασις
+Association
+	Associate
+		n1a		ὁμιλία
+		n1a		κοινωνία
+		n2a		κοινωνός
+		n2b		κοινωνός
+		n2a		συγκοινωνός
+		n1b		μετοχή
+		n1b		φίλη
+		n2a		ἑταῖρος
+		n1f		συστρατιώτης
+	Join
+	Belong To
+		n3e		πρόσλημψις
+		n1b		ἀποβολή
+		n2a		φραγμός
+	Limit or Avoid Association
+	Establish or Confirm a Relation
+		n1b		διαθήκη
+		n3e		δικαίωσις
+		n1b		δικαιοσύνη
+	Visit
+		n1b		ἐπισκοπή
+	Welcome
+		n2b		εἴσοδος
+	Show Hospitality
+		n1a		φιλοξενία
+		n1a		ξενία
+	Kiss
+		n3c		φίλημα
+	Marriage
+		n2a		γάμος
+		n2a		ἄγαμος
+		n2b		ἄγαμος
+		n2b		παρθένος
+		n3e		λύσις
+Help,Care For
+	Help
+		n1a		ἐπικουρία
+		n3e		ἀντίλημψις
+		n1a		βοήθεια
+		n3c		προστάτις
+		n1a		παρηγορία
+		n1f		εὐεργέτης
+		n2a		παράκλητος
+	Serve
+		n1a		διακονία
+		n3c		θεράπων
+		n1f		ὑπηρέτης
+		n2a		διάκονος
+		n2b		διάκονος
+		n1a		λειτουργία
+		n2a		λειτουργός
+		n1a		ὀφθαλμοδουλία
+	Provide For
+		n1a		ἐπιχορηγία
+	Care For
+		n1a		διακονία
+		n1b		ἐπισκοπή
+		n3e		ἐπίστασις
+		n2a		ἐπίσκοπος
+		n1a		ἐπιμέλεια
+	Entrust To the Care Of
+		n1b		παραθήκη
+		n2a		κλῆρος
+	Rear
+		n2b		τροφός
+	Adopt
+		n1a		υἱοθεσία
+	Desert
+Guide,Discipline,Follow
+	Guide
+		n3e		κυβέρνησις
+		n2a		ὁδηγός
+		n2a		ἐπίτροπος
+		n2a		ἀρχηγός
+		n2a		στῦλος
+		n3f		πατήρ
+	Discipline
+		n1a		παιδεία
+	Obey
+		n1b		ὑπακοή
+		n1b		ὑποταγή
+		n3e		τήρησις
+		n1a		ἀπείθεια
+		n1b		παρακοή
+		n3e		παράβασις
+		n1f		παραβάτης
+	Follow
+		n1f		μαθητής
+		n2a		υἱός
+		n2c		τέκνον
+		n1a		μαθήτρια
+		n1f		συμμαθητής
+Control,Rule
+	Control
+		n1a		ἐξουσία
+		n3f		χείρ
+		n3c		παγίς
+		n1a		θήρα
+		n1a		δουλεία
+	Compel
+	Exercise Authority
+		n1a		ἐξουσία
+		n2a		οἰκονόμος
+		n1b		ἐπιτροπή
+		n1b		ἐπιταγή
+		n3e		κτίσις
+	Rule
+		n2a		κύριος
+		n3c		κυριότης
+		n2b		ῥάβδος
+		n1b		ἀρχή
+		n3c		ἄρχων
+		n1a		ἡγεμονία
+		n3f		ἡγεμών
+		n3e		δύναμις
+		n1f		δυνάστης
+		n1f		δεσπότης
+		n1a		βασιλεία
+		n3e		βασιλεύς
+		n1c		βασίλισσα
+		n2a		θρόνος
+		n3f		κοσμοκράτωρ
+		n3f		Καῖσαρ
+		n1b		Κανδάκη
+		n1f		τετραάρχης
+		n1f		ἐθνάρχης
+		n1f		Ἀσιάρχης
+		n2a		ἀνθύπατος
+		n2a		εὐνοῦχος
+		n2a		ἐπίτροπος
+		n1a		πρεσβεία
+		n2a		ῥαβδοῦχος
+		n2a		στρατηγός
+		n3f		πράκτωρ
+		n1f		πολιτάρχης
+		n3e		γραμματεύς
+	Assign to a Role or Function
+		n2a		κλῆρος
+		n3c		χρῖσμα
+	Seize
+	Hand Over
+		n1f		προδότης
+	Imprison
+		n2a		δεσμός
+		n3e		ἅλυσις
+		n2a		δέσμιος
+		n1f		δεσμώτης
+		n2a		συναιχμάλωτος
+	Guard
+		n3b		φύλαξ
+		n3e		τήρησις
+		n1b		φυλακή
+		n3b		δεσμοφύλαξ
+		n1f		βασανιστής
+	Release
+		n3e		λύτρωσις
+		n3e		ἀπολύτρωσις
+		n1f		λυτρωτής
+		n2c		λύτρον
+		n2c		ἀντίλυτρον
+		n3e		ἄφεσις
+		n1a		ἐλευθερία
+		n3e		ἄνεσις
+Punish,Reward
+	Punish
+		n3e		κρίσις
+		n3e		κόλασις
+		n1a		παιδεία
+		n1f		παιδευτής
+		n1a		τιμωρία
+		n1a		ἐπιτιμία
+		n3e		ἐκδίκησις
+		n1b		δίκη
+		n1b		ὀργή
+	Reward
+		n2a		μισθός
+		n1a		ἀντιμισθία
+		n1a		μισθαποδοσία
+		n1f		μισθαποδότης
+		n3e		ἀνταπόδοσις
+		n3c		ἀνταπόδομα
+Hostility,Strife
+	Opposition
+		n2a		τάραχος
+		n1a		ἐριθεία
+		n2a		ἀντίδικος
+		n1a		ἔχθρα
+	Division
+		n3c		σχίσμα
+		n1a		διχοστασία
+		n2a		διαμερισμός
+	Resistance
+	Yielding
+	Strife
+		n3c		ἔρις
+		n1b		μάχη
+		n1c		μάχαιρα
+		n2a		πόλεμος
+		n3f		ἀγών
+		n1b		πάλη
+	Revenge
+		n3e		ἐκδίκησις
+	Rebellion
+		n3e		στάσις
+		n3e		ἐπίστασις
+		n1a		ἀποστασία
+		n1a		ἀκαταστασία
+		n1a		ἀντιλογία
+		n1f		στασιαστής
+		n2a		παραπικρασμός
+	Riot
+		n2a		θόρυβος
+		n1b		ταραχή
+		n3e		σύγχυσις
+		n1b		συστροφή
+	Persecution
+		n2a		διωγμός
+		n1f		διώκτης
+	Attack
+	Ambush
+		n1a		ἐνέδρα
+	Conquer
+		n1b		νίκη
+		n3d		νῖκος
+Reconciliation,Forgiveness
+	Reconciliation
+		n1b		καταλλαγή
+		n1f		μεσίτης
+	Forgiveness
+		n3e		ἄφεσις
+		n2a		ἱλασμός
+		n2c		ἱλαστήριον
+Behavior and Related States
+	Behavior
+		n1b		ἀγωγή
+		n1b		ἀναστροφή
+		n3c		κατάστημα
+		n2a		τρόπος
+		n2b		ὁδός
+		n2a		βίος
+		n3e		βίωσις
+		n1a		ἐργασία
+		n1f		ἐργάτης
+	Custom
+		n3d		ἔθος
+		n3d		ἦθος
+		n1a		συνήθεια
+	Particular Patterns of Behavior
+		n2a		Ἰουδαϊσμός
+		n2b		ὁδός
+		n2a		κόσμος
+		n3f		αἰών
+	Imitate Behavior
+		n1f		μιμητής
+		n1f		συμμιμητής
+	Change Behavior
+		n1b		ἐπιστροφή
+		n1a		μετάνοια
+Perform,Do
+	Function
+		n1a		ἐνέργεια
+		n3e		πρᾶξις
+	Do
+		n3e		ποίησις
+		n3e		πρᾶξις
+		n3c		πρᾶγμα
+		n3e		ἕξις
+		n2c		ἔργον
+		n3c		ἐνέργημα
+		n2c		ἔργον
+		n2a		καρπός
+		n2a		στέφανος
+		n1f		ποιητής
+		n2a		τόπος
+		n1a		χρεία
+		n3e		ἀπόχρησις
+		n1a		οἰκονομία
+		n2a		δρόμος
+	Make
+		n3c		ποίημα
+		n1b		οἰκοδομή
+		n3e		κτίσις
+		n1b		καταβολή
+		n3c		κτίσμα
+		n1f		κτίστης
+		n3c		κτίσμα
+	Work
+		n2c		ἔργον
+		n1f		ἐργάτης
+		n2a		συνεργός
+		n2a		σύζυγος
+		n2a		κόπος
+		n2a		μόχθος
+		n2a		πόνος
+	Craft
+		n1b		τέχνη
+		n1f		τεχνίτης
+Agriculture
+	Agriculture
+		n2a		γεωργός
+		n2a		θερισμός
+		n2a		καρπός
+		n2a		θερισμός
+		n1f		θεριστής
+		n2a		κηπουρός
+		n2a		ἀμπελουργός
+Animal Husbandry,Fishing
+	Animal Husbandry,Fishing
+		n3f		ποιμήν
+		n3f		ἀρχιποίμην
+		n3e		ἁλιεύς
+		n3e		ἅλωσις
+Building,Constructing
+	Building,Constructing
+		n2a		οἰκοδόμος
+		n2a		δημιουργός
+		n3f		τέκτων
+		n3f		ἀρχιτέκτων
+Household Activities
+	Household Activities
+		n1a		οἰκονομία
+
+		n2a		οἰκονόμος
+		n1f		οἰκέτης
+		n1a		οἰκετεία
+		n1a		θεραπεία
+		n2a		ἀρχιτρίκλινος
+		n2b		θυρωρός
+		n2a		θυρωρός
+		n1a		διακονία
+Activities Involving Liquids or Masses
+	Movement of Liquids or Masses
+		n3e		πρόσχυσις
+	Use of Liquids
+	Application and Removal of Liquids or Masses
+		n2a		ῥαντισμός
+Activities Involving Cloth
+	Activities Involving Cloth
+		n3e		γναφεύς
+Activities Involving Clothing and Adorning
+	Activities Involving Clothing and Adorning
+		n3e		περίθεσις
+		n3e		ἔνδυσις
+		n1b		καταστολή
+		n3e		ἀπέκδυσις
+		n3c		γυμνότης
+		n1b		ἐμπλοκή
+		n3c		πλέγμα
+Contests and Play
+	Contests and Play
+		n3e		ἄθλησις
+		n3f		ἀγών
+		n2a		δρόμος
+		n1a		γυμνασία
+Festivals
+	Festivals
+		n1b		ἑορτή
+		n3e		πανήγυρις
+		n3g		πάσχα
+		n1b		πεντηκοστή
+		n2c		ἐγκαίνια
+		n1a		σκηνοπηγία
+		n1a		νηστεία
+		n2c		γενέσια
+		n1a		νεομηνία
+Funerals and Burial
+	Funerals and Burial
+		n2a		κοπετός
+		n2a		ὀδυρμός
+		n2a		ἐνταφιασμός
+		n1b		ταφή
+Religious Activities
+	Religious Practice
+		n1a		θρησκεία
+		n1a		εὐσέβεια
+		n1a		θεοσέβεια
+		n1a		δεισιδαιμονία
+		n1b		δικαιοσύνη
+		n1a		εὐσέβεια
+		n1a		εὐλάβεια
+		n1a		ἀσέβεια
+		n1a		ἐθελοθρησκία
+		n1a		λειτουργία
+		n1a		λατρεία
+	Offering
+		n1a		προσφορά
+		n3c		ἀνάθημα
+		n1a		θυσία
+		n2c		σφάγιον
+		n3g		κορβᾶν
+		n1b		ἀπαρχή
+		n3c		ὁλοκαύτωμα
+		n3c		θυμίαμα
+		n3g		κορβᾶν
+	Purify
+		n3c		καθαρότης
+		n2a		καθαρισμός
+		n2a		ἁγνισμός
+		n2a		βαπτισμός
+	Defile
+		n2a		μολυσμός
+		n3c		ἀλίσγημα
+	Baptize
+		n3c		βάπτισμα
+		n2a		βαπτισμός
+		n1f		βαπτιστής
+		n2c		λουτρόν
+	Dedicate
+		n2a		ἁγιασμός
+		n1b		ἁγιωσύνη
+		n3c		ὁσιότης
+		n1b		περιτομή
+	Worship
+		n3c		σέβασμα
+		n1f		προσκυνητής
+		n2a		φόβος
+		n3d		δέος
+		n1a		εἰδωλολατρία
+		n1f		εἰδωλολάτρης
+	Fasting
+		n1a		νηστεία
+	Roles and Functions
+		n2b		διάκονος
+		n1b		ἐπισκοπή
+		n2a		ἐπίσκοπος
+		n3f		ποιμήν
+		n1b		ἀποστολή
+		n2a		ἀπόστολος
+		n2a		ψευδαπόστολος
+		n1f		εὐαγγελιστής
+		n2a		συμπρεσβύτερος
+		n1f		προφήτης
+		n3c		προφῆτις
+		n1f		ψευδοπροφήτης
+		n2a		Χριστός
+		n1d		Μεσσίας
+		n2a		ἀντίχριστος
+		n2a		ψευδόχριστος
+		n1a		ἱερατεία
+		n3c		ἱεράτευμα
+		n1b		ἱερωσύνη
+		n3e		ἱερεύς
+		n3e		ἀρχιερεύς
+		n1f		Λευίτης
+		n2a		ἀρχισυνάγωγος
+		n3e		γραμματεύς
+		n2a		νεωκόρος
+	Magic
+		n1a		μαγεία
+		n2a		μάγος
+		n1a		φαρμακεία
+		n2c		φάρμακον
+		n2a		φάρμακος
+	Exorcism
+		n1f		ἐξορκιστής
+	Sacrilege
+		n2a		ἱερόσυλος
+Maritime Activities
+	Maritime Activities
+		n3e		πλοῦς
+		n1f		κυβερνήτης
+		n2a		ναύκληρος
+		n1f		ναύτης
+Military Activities
+	To Arm
+	To Fight
+		n1a		στρατεία
+		n2a		πόλεμος
+		n1c		μάχαιρα
+		n1a		ῥομφαία
+	Army
+		n2c		στρατόπεδον
+		n3c		στράτευμα
+		n3f		λεγιών
+		n1c		σπεῖρα
+		n3c		στράτευμα
+		n2c		τετράδιον
+		n2c		πραιτώριον
+		n1a		κουστωδία
+	Soldiers
+		n2a		στρατοπέδαρχος
+		n2a		χιλίαρχος
+		n3f		κεντυρίων
+		n2a		ἑκατόνταρχος
+		n1f		ἑκατοντάρχης
+		n1f		στρατιώτης
+		n3e		ἱππεύς
+		n2a		δεξιολάβος
+	Prisoners of War
+		n1a		αἰχμαλωσία
+		n2a		αἰχμάλωτος
+Courts and Legal Procedures
+	Court of Justice
+		n2c		κριτήριον
+		n3e		κρίσις
+		n1a		ἡμέρα
+	Lawsuit
+		n3c		πρᾶγμα
+		n2c		κριτήριον
+		n3c		κρίμα
+	Accusation
+		n1a		αἰτία
+		n3c		αἰτίωμα
+		n1a		αἰτία
+		n3c		ἔγκλημα
+		n2a		λόγος
+		n2a		ἀντίδικος
+	Judicial Hearing
+		n3e		ἀνάκρισις
+	Judge
+		n3e		διάγνωσις
+		n3c		κρίμα
+		n3e		κρίσις
+		n3c		ἀπόκριμα
+		n1a		δικαιοκρισία
+		n1f		κριτής
+		n1f		δικαστής
+		n3c		ἄρχων
+		n3e		κατάκρισις
+		n3c		κατάκριμα
+		n1b		καταδίκη
+		n3e		δικαίωσις
+		n3c		δικαίωμα
+	Obtain Justice
+		n3e		ἐκδίκησις
+	Attorney
+		n3f		ῥήτωρ
+	Lead Off to Punishment
+Possess,Transfer,Exchange
+	Have
+		n3e		κατάσχεσις
+		n2a		συγκοινωνός
+		n3f		κτήτωρ
+		n2a		κύριος
+		n1f		δεσπότης
+		n1f		οἰκοδεσπότης
+		n3c		κτῆμα
+		n3e		ὕπαρξις
+		n2a		βίος
+		n1a		οὐσία
+		n3d		σκεῦος
+		n1a		οἰκία
+		n2a		οἶκος
+	Have Sufficient
+	Be Rich
+		n2a		πλοῦτος
+		n3c		χρῆμα
+		n1a		εὐπορία
+		n1e		μαμωνᾶς
+		n1f		τιμιότης
+	Treasure
+		n1c		γάζα
+	Need
+		n3e		ὑστέρησις
+		n3c		ὑστέρημα
+		n1a		χρεία
+	Be Poor
+		n3c		πένης
+		n1a		πτωχεία
+	Take
+		n3e		κατάσχεσις
+		n3e		περιποίησις
+		n3c		κλείς
+		n1a		λογεία
+		n1a		ζημία
+	Give
+		n3e		δόσις
+		n1f		δότης
+		n3c		δόμα
+		n3c		δώρημα
+		n1a		δωρεά
+		n2c		δῶρον
+		n1a		δωροφορία
+		n2a		κλῆρος
+		n2a		μερισμός
+		n3e		διαίρεσις
+		n1a		κοινωνία
+		n1a		κοινωνία
+		n3c		χάρις
+		n3c		χάρισμα
+		n1a		εὐλογία
+		n3c		ἁπλότης
+		n1b		ἀγαθωσύνη
+		n1b		δικαιοσύνη
+		n1b		ἐλεημοσύνη
+		n2c		ὀψώνιον
+		n1a		διακονία
+		n2c		βραβεῖον
+		n2a		στέφανος
+		n1b		διαθήκη
+	Receive
+		n3e		λῆμψις
+		n3e		μετάλημψις
+		n1a		κληρονομία
+		n2a		κληρονόμος
+	Exchange
+		n3c		ἀντάλλαγμα
+	Spend
+	Pay
+		n3c		ἀνταπόδομα
+		n1b		δαπάνη
+		n1b		τιμή
+		n2c		κεφάλαιον
+		n2c		ὀψώνιον
+		n1b		ἀμοιβή
+		n3f		ἀρραβών
+		n1b		ἀπαρχή
+	Hire
+		n2a		μισθός
+		n2a		μίσθιος
+		n2a		μισθωτός
+		n3c		μίσθωμα
+	Tax
+		n3d		τέλος
+		n2a		κῆνσος
+		n2c		δίδραχμον
+		n2a		φόρος
+		n2c		τελώνιον
+		n1f		τελώνης
+		n1f		ἀρχιτελώνης
+	Sell
+		n1f		ἀνδραποδιστής
+	Earn
+		n3d		κέρδος
+		n1a		ἐργασία
+		n2a		πορισμός
+		n1a		ἐμπορία
+		n1a		ἐργασία
+		n3d		μέρος
+		n1a		πορεία
+		n1a		εὐπορία
+		n2a		ἔμπορος
+		n3c		πορφυρόπωλις
+		n1f		κολλυβιστής
+		n1f		κερματιστής
+		n2c		ἐμπόριον
+		n1a		ἀγορά
+		n2c		μάκελλον
+	Lend
+		n2c		δάνειον
+		n1f		δανιστής
+		n2a		τόκος
+		n1c		τράπεζα
+		n1f		τραπεζίτης
+	Owe
+		n1b		ὀφειλή
+		n3c		ὀφείλημα
+		n1f		ὀφειλέτης
+	Be a Financial Burden
+	Keep Records
+		n2a		λόγος
+	Steal
+		n3c		κλέμμα
+		n1b		κλοπή
+		n1f		κλέπτης
+		n2a		ἁρπαγμός
+		n1b		ἁρπαγή
+		n1f		λῃστής
+		n2a		ἱερόσυλος
+		n2c		ἀκροθίνιον
+		nature,Class,Example
+	Nature
+		n3e		ὑπόστασις
+		n1b		μορφή
+		n3e		μόρφωσις
+		n3c		σχῆμα
+		n3e		φύσις
+		n3b		σάρξ
+		n3c		πλάσμα
+		n3c		σπέρμα
+	Appearance as an Outward Manifestation of Form
+		n3d		εἶδος
+		n1a		εἰδέα
+		n1b		μορφή
+		n3c		σχῆμα
+	Basic Principles or Features Defining the Nature of Something
+		n1b		ἀρχή
+	Class
+		n3e		τάξις
+		n3c		ὄνομα
+		n3d		γένος
+		n3e		φύσις
+		n2a		τύπος
+		n2a		υἱός
+		n3c		γέννημα
+		n2c		τέκνον
+	Same or Equivalent Kind or Class
+		n3c		ἰσότης
+		n3f		εἰκών
+	Different Kind or Class
+		n3e		διαίρεσις
+		n1b		διαστολή
+		n1b		παραλλαγή
+	Distinctive
+	Unusual
+	Pattern
+		n2a		τύπος
+		n3e		ὑποτύπωσις
+		n2a		ὑπογραμμός
+		n3c		ὑπόδειγμα
+		n3f		εἰκών
+		n3f		χαρακτήρ
+	Archetype
+		n2a		τύπος
+		n1b		παραβολή
+		n3f		πατήρ
+		n3f		μήτηρ
+		n1a		σκιά
+		n3c		σῶμα
+	New
+		n3c		καινότης
+		n3e		ἀνακαίνωσις
+		n3c		παλαιότης
+Quantity
+	Many
+		n3d		πλῆθος
+	Much
+	All
+		n3c		πλήρωμα
+	Full
+		n3c		πλήρωμα
+	Enough
+	Abundance
+		n3c		περίσσευμα
+		n1a		περισσεία
+		n2a		κόσμος
+		n3c		ἁδρότης
+	Increase
+	Add
+		number
+	Number
+		n2a		ἀριθμός
+		n3c		μυριάς
+	One
+	First
+	Half
+	Once
+	Double
+	Pair
+		n3d		ζεῦγος
+		n3c		χιλιάς
+Sequence
+	Sequence
+		n3e		τάξις
+		n2a		τροχός
+		n3g		ἄλφα
+		n1b		ἀπαρχή
+		n2a		διάδοχος
+		n3c		πέρας
+Arrange,Organize
+	Put Together
+	Organize
+		n3c		τάγμα
+		n3e		διόρθωσις
+Whole,Unite,Part,Divide
+	Whole
+		n3c		ἑνότης
+	Unite
+		n2a		σύνδεσμος
+	Mix
+		n3c		μίγμα
+		n3c		φύραμα
+	Part
+		n3c		μερίς
+		n3d		μέρος
+		n3d		μέλος
+		n2a		κλῆρος
+	Remnant
+		n3c		λεῖμμα
+		n3c		ὑπόλειμμα
+	Divide
+		n2a		μερισμός
+		n1f		μεριστής
+		n3e		αἵρεσις
+	Separate
+Comparison
+	Comparison
+		n3c		ὁμοιότης
+		n3c		ὁμοίωμα
+		n3e		ὁμοίωσις
+Value
+	Valuable
+		n1b		τιμή
+		n3c		πιότης
+		n2a		θησαυρός
+		n1b		δοκιμή
+		n1a		ἀπώλεια
+	Worthy
+	Good
+	Useful
+		n3c		ματαιότης
+	Advantageous
+		n3d		ὄφελος
+		n1a		ὠφέλεια
+	Important
+Proper,Improper
+	Proper,Improper
+		n1a		ἀναίδεια
+Time
+	Point of Time without Reference to Other Points of Time: Time,Occasion,Ever,Often
+		n2a		καιρός
+		n2a		χρόνος
+		n1a		ὥρα
+		n1a		προθεσμία
+		n1a		εὐκαιρία
+	Point of Time with Reference to Other Points of Time: Before,Long Ago,Now,At the Same Time,When,About,After
+	Point of Time with Reference to Duration of Time: Beginning,End
+		n1b		ἀρχή
+		n3d		τέλος
+		n1a		συντέλεια
+		n3e		ἔκβασις
+		n3c		πλήρωμα
+		n3e		ἐκπλήρωσις
+	Point of Time with Reference to Units of Time: Daybreak,Midday,Midnight,Late
+		n1b		αὐγή
+		n2a		ὄρθρος
+		n1a		μεσημβρία
+		n2c		μεσονύκτιον
+	Duration of Time without Reference to Points or Units of Time:Time
+		n2a		χρόνος
+		n2a		καιρός
+		n2a		τροχός
+		n3c		παλαιότης
+		n3c		καινότης
+		n3d		τάχος
+	Duration of Time with Reference to Some Point of Time:Until
+		n3c		βραδύτης
+		n1b		ἀναβολή
+	Duration of Time with Reference to Some Unit of Time:During
+	Indefinite Units of Time:Age
+		n1a		ἡμέρα
+		n3f		αἰών
+		n1a		γενεά
+		n2a		καιρός
+		n2a		ἐνιαυτός
+		n1a		παλιγγενεσία
+		n1a		ὥρα
+		n1b		στιγμή
+		n3c		διάστημα
+		n1a		ἡλικία
+		n3d		βρέφος
+		n3c		νεότης
+		n1a		ἡλικία
+		n3d		γῆρας
+		n1f		συνηλικιώτης
+	Definite Units of Time:Year
+		n3d		θέρος
+		n1a		παραχειμασία
+		n3d		ἔτος
+		n2a		ἐνιαυτός
+		n1a		διετία
+		n1a		τριετία
+		n3f		μήν
+		n2c		σάββατον
+		n1a		ἡμέρα
+		n2c		νυχθήμερον
+		n2c		σάββατον
+		n2a		σαββατισμός
+		n2a		ὄρθρος
+		n1a		ἑσπέρα
+		n3c		νύξ
+		n1b		φυλακή
+		n1a		ὀψία
+		n1a		ἀλεκτοροφωνία
+		n1a		ὥρα
+		n2c		ἡμίωρον
+	Units of Time with Reference to Other Units or Points of Time:Yesterday
+		n1b		παρασκευή
+		n2c		προσάββατον
+Aspect
+	Begin
+		n1b		ἀρχή
+		n2a		ἀρχηγός
+		n1b		ἐπεισαγωγή
+	Continue
+	Complete
+		n1f		τελειωτής
+		n2a		ἀπαρτισμός
+	Cease
+		n3e		ἀνάπαυσις
+		n1b		ὑποστολή
+		n1a		ἀφθαρσία
+	Try
+	Do Intensely or Extensively
+		n1b		σπουδή
+		n3e		προσκαρτέρησις
+	Rapidity
+		n1b		σπουδή
+		n3c		ὅρμημα
+Affirmation,Negation
+	Affirmation
+	Negation
+	Negation Combined with Clitics
+	Markers for an Affirmative Response to Questions
+	Markers for a Negative Response to Questions
+Real,Unreal
+	Real,Unreal
+Mode
+	Possible
+		n2a		τόπος
+	Probable
+	Certain
+		n3c		ἀδηλότης
+	Should
+		n1a		χρεία
+		n1b		ὀφειλή
+		n3c		ὀφείλημα
+		n1f		ὀφειλέτης
+		n1b		ἀνάγκη
+	Necessary
+		n1b		ἀνάγκη
+True,False
+	True
+		n1a		ἀλήθεια
+		n2a		φωτισμός
+		n1b		δοκιμή
+		n2a		ἔλεγχος
+	Accurate
+		n3e		ἐπανόρθωσις
+		n3c		διόρθωμα
+		n1a		ἀκρίβεια
+Genuine,Phony
+	Genuine,Phony
+		n2c		δοκίμιον
+		n3c		σφραγίς
+Able,Capable
+	Able,Capable
+		n3e		δύναμις
+		n3e		ἰσχύς
+		n3e		ἄθλησις
+		n1b		οἰκοδομή
+		n3e		καθαίρεσις
+		n3c		στερέωμα
+		n2a		στηριγμός
+		n1a		ἀσθένεια
+		n3c		ἀσθένημα
+Adequate,Qualified
+	Adequate,Qualified
+		n3c		ἱκανότης
+		n3e		κατάρτισις
+		n2a		καταρτισμός
+		n1a		αὐτάρκεια
+Power,Force
+	Power,Force
+		n3e		δύναμις
+		n3c		μεγαλειότης
+		n3f		χείρ
+		n3d		κράτος
+		n3e		δύναμις
+		n1a		ἐξουσία
+		n1c		δόξα
+		n1b		ἀρετή
+		n3c		κέρας
+		n3e		ἀθέτησις
+Ready,Prepared
+	Ready,Prepared
+		n1a		ἑτοιμασία
+Degree
+	Much
+		n3d		μέγεθος
+		n3d		βάθος
+		n3e		ἀνάχυσις
+	More Than
+		n1a		περισσεία
+		n1b		ὑπερβολή
+		n3e		πύρωσις
+	About
+	Completely
+		n3d		τέλος
+		n3d		μέρος
+		n2a		ὅρος
+	Up To
+Features of Objects
+	Physical
+	Natural
+	Solid
+	Beautiful
+		n2a		κόσμος
+		n1a		εὐπρέπεια
+		n1b		εὐσχημοσύνη
+	Glorious
+		n1c		δόξα
+	Transparent
+	Color
+	Sweet
+		n1a		πικρία
+		n2b		ἄψινθος
+	Fragrance
+		n1b		ὀσμή
+		n1a		εὐωδία
+	Clean
+		n3c		περικάθαρμα
+		n3c		περίψημα
+		n1a		ἀκαθαρσία
+		n2a		ῥύπος
+	Spotted
+		n2a		σπίλος
+		n3c		σπιλάς
+	Blemished
+		n2a		μῶμος
+	Strong
+		n3e		ἰσχύς
+	Hot
+		n1b		θέρμη
+		n3d		ψῦχος
+	Wet
+	Uneven
+	Straight
+	Two-Dimensional and Three-Dimensional Shapes
+		n3c		φύραμα
+		n2c		πρόσωπον
+	Sharp
+	Pure
+	Soft
+	Male
+	Shapes
+		n2c		ἄκρον
+		n3c		κέρας
+		n1b		ἀρχή
+		n1a		γωνία
+		n3d		μέρος
+		n3c		στόμα
+	Open
+	Covered Over
+	Wrapped
+	Rolled Up
+		n3c		ἕλιγμα
+	Large,Small
+	Perfect
+Space
+	Space
+		n2a		τόπος
+		n3f		κανών
+	Limits
+		n1a		ὁροθεσία
+		n3c		πέρας
+		n2c		ἄκρον
+Spacial Dimensions
+	Measure
+		n2c		μέτρον
+	High
+		n3d		ὕψος
+		n1a		ἡλικία
+		n3d		βάθος
+	Long
+		n3d		μῆκος
+	Narrow
+		n3d		πλάτος
+	Specific Measures of Volume
+		n2b		βάτος
+		n2a		κόρος
+		n1f		μετρητής
+		n2c		σάτον
+		n3b		χοῖνιξ
+	Specific Measures of Length
+		n3e		πῆχυς
+		n1a		ὀργυιά
+		n2c		μίλιον
+Spacial Orientations
+	North
+		n1b		ἀνατολή
+		n3e		δύσις
+		n1b		δυσμή
+		n1e		βορρᾶς
+		n2a		νότος
+		n1a		μεσημβρία
+		n2a		χῶρος
+		n3a		λίψ
+	Left
+Spacial Positions
+	Here
+	Where
+	Among
+		n1a		καρδία
+	Around
+	At
+	In Front Of
+		n2c		πρόσωπον
+	Opposite
+	On
+	Above
+	Beyond
+Spacial Extensions
+	Extension From a Source
+		n1b		νομή
+	Extension To a Goal
+		n2a		σκοπός
+	Extension Along a Path
+Existence in Space
+	Be in a Place
+		n1a		παρουσία
+		n2c		πρόσωπον
+		n1a		ἀπουσία
+		n3c		ὑστέρημα
+	Put
+		n3e		ἐπίθεσις
+	Remain
+	Leave in a Place
+	Dwell
+		n2c		οἰκητήριον
+		n1a		κατοικία
+		n3e		κατοίκησις
+		n2c		κατοικητήριον
+		n1b		μονή
+		n3c		σκήνωμα
+		n1a		παροικία
+		n1a		μετοικεσία
+		n1b		φυλακή
+Weight
+	Heavy
+	Pound
+		n1a		λίτρα
+Status
+	Position
+		n2a		τόπος
+		n3e		κλῆσις
+		n2a		βαθμός
+	Honor or Respect in Relation to Status
+		n1b		τιμή
+		n1c		δόξα
+		n3d		κλέος
+		n1a		πρωτοκλισία
+		n1a		πρωτοκαθεδρία
+	High Status or Rank
+		n3d		ὕψος
+		n1b		ἐξοχή
+		n1b		μεγαλωσύνη
+		n3c		μεγαλειότης
+		n1c		δόξα
+		n1b		ὑπεροχή
+		n3e		ἀνάστασις
+		n3f		μεγιστάν
+		n3f		πατήρ
+		n1f		ἐπιστάτης
+		n1b		κεφαλή
+		n1f		πρωτοστάτης
+		n2a		κύριος
+		n1a		κυρία
+		n1a		φαντασία
+	Low Status or Rank
+		n3e		ταπείνωσις
+		n2a		ὄχλος
+		n2a		λαός
+		n1a		ἀτιμία
+		n3d		ὄνειδος
+		n3e		πτῶσις
+	Slave
+		n2a		δοῦλος
+		n3c		παῖς
+		n3c		σῶμα
+		n2a		σύνδουλος
+		n1b		δούλη
+		n1b		παιδίσκη
+		n2a		ἀπελεύθερος
+		n2a		Λιβερτῖνος
+Moral and Ethical Qualities and Related Behavior
+	Goodness
+		n1b		ἀγαθωσύνη
+		n1a		εὐεργεσία
+		n3c		χρηστότης
+		n1b		ἀρετή
+	Just
+		n1b		δικαιοσύνη
+		n3c		δικαίωμα
+		n3c		εὐθύτης
+		n1a		ἀδικία
+		n3c		ἀδίκημα
+	Holy
+		n1b		ἁγιωσύνη
+		n3c		ἁγιότης
+		n3c		ὁσιότης
+		n1a		ἁγνεία
+		n3c		ἁγνότης
+	Perfect
+		n3c		τελειότης
+		n3e		τελείωσις
+	Honesty
+		n1a		εἰλικρίνεια
+		n1a		ἀφθορία
+		n3c		ἁπλότης
+	Modesty
+		n3c		σεμνότης
+		n3d		αἰδώς
+	Humility
+		n3e		ταπείνωσις
+		n1b		ταπεινοφροσύνη
+		n3c		ἀφελότης
+	Gentleness
+		n3c		πραΰτης
+		n1a		ἐπιείκεια
+	Kindness
+		n3c		χάρις
+		n3c		χρηστότης
+		n1a		εὐλογία
+		n1a		φιλανθρωπία
+		n1a		ἀποτομία
+	Mercy
+		n3d		ἔλεος
+		n2a		οἰκτιρμός
+	Self
+		n1a		ἐγκράτεια
+		n1a		ἀφειδία
+		n1a		ἀκρασία
+	Sensible Behavior
+		n2a		σωφρονισμός
+		n1b		σωφροσύνη
+		n1a		ἀσωτία
+		n1a		ἐλαφρία
+	Mature Behavior
+		n3c		τελειότης
+	Peaceful Behavior
+		n1a		ἡσυχία
+	Bad
+		n1a		κακία
+		n1a		πονηρία
+		n1a		κακοήθεια
+		n1a		ἁμαρτία
+		n2c		θηρίον
+		n3b		ἀλώπηξ
+		n2a		λύκος
+		n3f		κύων
+		n1c		ἔχιδνα
+		n3e		ὄφις
+		n3d		σκότος
+		n1a		σκοτία
+	Treat Badly
+		n3e		ὕβρις
+		n1f		ὑβριστής
+	Act Harshly
+		n1f		πλήκτης
+	Act Lawlessly
+		n1a		ἀνομία
+		n1a		παρανομία
+	Exploit
+		n1a		πλεονεξία
+	Act Shamefully
+		n1b		ἀσχημοσύνη
+		n1b		αἰσχύνη
+		n3c		αἰσχρότης
+	Mislead
+		n2a		δόλος
+		n1a		κυβεία
+		n1a		μεθοδεία
+	Envy
+		n2a		φθόνος
+		n3d		ζῆλος
+	Resentful
+		n1a		ἐριθεία
+	Anger
+		n1b		ὀργή
+		n2a		παροργισμός
+		n2a		θυμός
+		n1a		ἄνοια
+		n3e		ἀγανάκτησις
+	Despise
+		n1f		καταφρονητής
+	Hate
+		n1a		κακία
+		n1a		πικρία
+	Arrogance,Haughtlness
+		n3c		ὕψωμα
+		n1a		ὑπερηφανία
+		n3e		φυσίωσις
+		n1a		ἀλαζονεία
+		n3f		ἀλαζών
+		n1a		κενοδοξία
+	Stubbornness
+		n3c		σκληρότης
+		n1a		σκληροκαρδία
+	Hypocrisy,Pretense
+		n3e		ὑπόκρισις
+		n1f		ὑποκριτής
+		n3e		πρόφασις
+		n3c		γόης
+		n1b		ζύμη
+	Show Favoritism,Prejudice
+		n1a		προσωπολημψία
+		n1f		προσωπολήμπτης
+		n3e		πρόσκλισις
+	Being a Busybody
+		n2a		ἀλλοτριεπίσκοπος
+	Laziness,Idleness
+	Extravagant Living,Intemperate Living
+		n1b		τρυφή
+		n3d		στρῆνος
+	Impurity
+		n1a		ῥυπαρία
+		n3c		μίασμα
+		n2a		μιασμός
+		n1a		ἀκαθαρσία
+	Licentiousness,Perversion
+		n1b		πλάνη
+		n1a		φθορά
+		n1a		πανουργία
+	Sexual Misbehavior
+		n1a		πορνεία
+		n1a		ἀσέλγεια
+		n1b		κοίτη
+		n2a		πόρνος
+		n1b		πόρνη
+		n1a		μοιχεία
+		n2a		μοιχός
+		n3c		μοιχαλίς
+		n1f		ἀρσενοκοίτης
+		n3f		κύων
+		n1b		μέθη
+	Drunkenness
+		n1a		οἰνοφλυγία
+		n1b		κραιπάλη
+		n2a		κῶμος
+		n2a		πότος
+		n2a		μέθυσος
+		n1f		οἰνοπότης
+	Sin,Wrongdoing,Guilt
+		n1a		ἁμαρτία
+		n3c		ἁμάρτημα
+		n3c		παράπτωμα
+		n3c		ὀφείλημα
+		n1f		ὀφειλέτης
+		n1a		ῥᾳδιουργία
+		n3c		ῥᾳδιούργημα
+		n3c		ἀγνόημα
+		n2c		σκάνδαλον
+		n3c		πρόσκομμα
+		n1b		προσκοπή
+		n2a		πειρασμός
+		n1a		ἁμαρτία
+Relations
+	Relation
+		n1a		αἰτία
+	Dependency
+	Derivation
+	Specification
+	Relations Involving Correspondences
+		n1a		ἀναλογία
+	Basis
+		n2c		θεμέλιον
+	Cause and/or Reason
+		n1a		αἰτία
+		n1b		ἀρχή
+		n1c		ῥίζα
+		n2a		λόγος
+		n1b		ἀφορμή
+	Result
+		n3e		ἔκβασις
+		n3d		τέλος
+		n2c		ὀψώνιον
+	Purpose
+		n3d		τέλος
+	Condition
+	Concession
+	Means
+	Attendant Circumstances
+	Manner
+		n2a		τρόπος
+	Sequential Addition
+	Distribution
+	Addition
+	Linkage
+	Equivalence
+	Association
+	Dissociation
+	Combinative Relation
+	Contrast
+	Alternative Relation
+	Substance
+	Mediation
+Case
+	Agent
+	Instrument
+	Source of Event or Activity
+	Responsibility
+	Viewpoint Participant
+	Content
+		n2a		τύπος
+	Guarantor Participant with Oaths
+	Opposition
+	Benefaction
+	Reason Participant
+	Agent of a Numerable Event
+	Agent in a Causative Role Marked by Verbs
+		n2a		παροξυσμός
+	Experiencer
+		n3e		περιποίησις
+	To Cause To Experience
+Discourse Markers
+	Markers of Transition
+	Markers of Emphasis
+	Prompters of Attention
+	Marker of Direct Address
+	Markers of Identificational and Explanatory Clauses
+Discourse Referentials
+	Speaker
+	Speaker and Those Associated with the Speaker
+	Receptor
+	Whom or What Spoken or Written About
+		n3f		δεῖνα
+	Reciprocal Reference
+	Relative Reference
+	Demonstrative or Deictic Reference
+	Emphatic Adjunct
+		names of Persons and Places
+	Persons
+		n3g		Ἀαρών
+		n3g		Ἀβαδδών
+		n3g		Ἅβελ
+		n3g		Ἀβιά
+		n3g		Ἀβιαθάρ
+		n3g		Ἀβιούδ
+		n3g		Ἀβραάμ
+		n2a		Ἅγαβος
+		n1e		Ἀγρίππας
+		n3g		Ἀδάμ
+		n3g		Ἀδδί
+		n3g		Ἀδμίν
+		n3g		Ἀζώρ
+		n1d		Αἰνέας
+		n3g		Ἀκύλας
+		n2a		Ἀλέξανδρος
+		n3g		Ἀμιναδάβ
+		n2a		Ἀμπλιᾶτος
+		n3g		Ἀμών
+		n3g		Ἀμώς
+		n1d		Ἀνδρέας
+		n2a		Ἀνδρόνικος
+		n1a		Ἅννα
+		n1e		Ἅννας
+		n1e		Ἀντιπᾶς
+		n1h		Ἀπελλῆς
+		n3f		Ἀπολλύων
+		n2e		Ἀπολλῶς
+		n1a		Ἀπφία
+		n3g		Ἀράμ
+		n2a		Ἀρίσταρχος
+		n2a		Ἀριστόβουλος
+		n3g		Ἀρνί
+		n1e		Ἀρτεμᾶς
+		n3c		Ἄρτεμις
+		n3g		Ἀρφαξάδ
+		n2a		Ἀρχέλαος
+		n2a		Ἄρχιππος
+		n3g		Ἀσά
+		n3g		Ἀσάφ
+		n3g		Ἀσήρ
+		n2a		Ἀσύγκριτος
+		n2a		Αὐγοῦστος
+		n3g		Ἀχάζ
+		n2a		Ἀχαϊκός
+		n3g		Ἀχίμ
+		n3g		Βάαλ
+		n3g		Βαλαάμ
+		n3g		Βαλάκ
+		n1e		Βαραββᾶς
+		n3g		Βαράκ
+		n1d		Βαραχίας
+		n2a		Βαρθολομαῖος
+		n3g		Βαριησοῦς
+		n3g		Βαριωνᾶ
+		n1e		Βαριωνᾶς
+		n1e		Βαρναβᾶς
+		n2a		Βαρτιμαῖος
+		n3g		Βελιάρ
+		n3g		Βενιαμίν
+		n1b		Βερνίκη
+		n3g		Βεώρ
+		n2a		Βλάστος
+		n3g		Βοανηργές
+		n3g		Βόες
+		n3g		Βόος
+		n3g		Βοσόρ
+		n3g		Γαβριήλ
+		n3g		Γάδ
+		n2a		Γάϊος
+		n3f		Γαλλίων
+		n3g		Γαμαλιήλ
+		n3g		Γεδεών
+		n3g		Γώγ
+		n3c		Δάμαρις
+		n3g		Δανιήλ
+		n3g		Δαυίδ
+		n1e		Δημᾶς
+		n2a		Δημήτριος
+		n2a		Δίδυμος
+		n2a		Διονύσιος
+		n2a		Διόσκουροι
+		n3d		Διοτρέφης
+		n3c		Δορκάς
+		n1c		Δρούσιλλα
+		n3g		Ἔβερ
+		n3g		Ἐλεάζαρ
+		n3g		Ἐλιακίμ
+		n3g		Ἐλιέζερ
+		n3g		Ἐλιούδ
+		n3g		Ἐλισάβετ
+		n2a		Ἐλισαῖος
+		n3g		Ἐλμαδάμ
+		n1e		Ἐλύμας
+		n3g		Ἐμμανουήλ
+		n3g		Ἐνώς
+		n2a		Ἐπαίνετος
+		n1e		Ἐπαφρᾶς
+		n2a		Ἐπαφρόδιτος
+		n2a		Ἔραστος
+		n1a		Εὕα
+		n2a		Εὔβουλος
+		n1b		Εὐνίκη
+		n1a		Εὐοδία
+		n2a		Εὔτυχος
+		n3g		Ζαβουλών
+		n2a		Ζακχαῖος
+		n3g		Ζάρα
+		n1d		Ζαχαρίας
+		n2a		Ζεβεδαῖος
+		n3g		Ζεύς
+		n3g		Ζηνᾶς
+		n3g		Ζοροβαβέλ
+		n3g		Ἠλί
+		n1d		Ἠλίας
+		n3g		Ἤρ
+		n3g		Ἠσαῦ
+		n2a		Θαδδαῖος
+		n3g		Θαμάρ
+		n3g		Θάρα
+		n2a		Θεόφιλος
+		n1e		Θευδᾶς
+		n1e		Θωμᾶς
+		n2a		Ἰάϊρος
+		n3g		Ἰακώβ
+		n2a		Ἰάκωβος
+		n1f		Ἰαμβρῆς
+		n3g		Ἰανναί
+		n1f		Ἰάννης
+		n3g		Ἰάρετ
+		n3f		Ἰάσων
+		n1d		Ἰερεμίας
+		n3g		Ἰεσσαί
+		n3g		Ἰεφθάε
+		n1d		Ἰεχονίας
+		n3g		Ἰησοῦς
+		n1a		Ἰουδαία
+		n1e		Ἰούδας
+		n1e		Ἰούδας
+		n1a		Ἰουλία
+		n2a		Ἰούλιος
+		n1e		Ἰουνιᾶς
+		n2a		Ἰοῦστος
+		n3g		Ἰσαάκ
+		n3g		Ἰσκαριώθ
+		n3g		Ἰσραήλ
+		n1f		Ἰσραηλίτης
+		n3g		Ἰσσαχάρ
+		n3g		Ἰωαθάμ
+		n3g		Ἰωανάν
+		n1a		Ἰωάννα
+		n1f		Ἰωάννης
+		n3g		Ἰώβ
+		n3g		Ἰωβήδ
+		n3g		Ἰωδά
+		n3g		Ἰωήλ
+		n1d		Ἰωνάθας
+		n3g		Ἰωνάμ
+		n1e		Ἰωνᾶς
+		n3g		Ἰωράμ
+		n3g		Ἰωρίμ
+		n3g		Ἰωσαφάτ
+		n3c		Ἰωσῆς
+		n1g		Ἰωσῆς
+		n3g		Ἰωσήφ
+		n3g		Ἰωσήχ
+		n1d		Ἰωσίας
+		n1e		Καϊάφας
+		n3g		Κάϊν
+		n3g		Καϊνάμ
+		n3f		Καῖσαρ
+		n1b		Κανδάκη
+		n2a		Κάρπος
+		n1e		Κηφᾶς
+		n3g		Κίς
+		n1a		Κλαυδία
+		n2a		Κλαύδιος
+		n1e		Κλεοπᾶς
+		n3c		Κλήμης
+		n1e		Κλωπᾶς
+		n3g		Κόρε
+		n2a		Κορνήλιος
+		n2a		Κούαρτος
+		n3c		Κρήσκης
+		n2a		Κρίσπος
+		n2a		Κυρήνιος
+		n3g		Κωσάμ
+		n2a		Λάζαρος
+		n3g		Λάμεχ
+		n2a		Λεββαῖος
+		n3g		Λευί
+		n3g		Λευίς
+		n2a		Λίνος
+		n1e		Λουκᾶς
+		n2a		Λούκιος
+		n1a		Λυδία
+		n1d		Λυσανίας
+		n1d		Λυσίας
+		n3g		Λώτ
+		n3g		Μάαθ
+		n1b		Μαγδαληνή
+		n3g		Μαγώγ
+		n2a		Μαθθαῖος
+		n2a		Ματθαῖος
+		n3g		Μαθθάτ
+		n3g		Ματθάτ
+		n1d		Μαθθίας
+		n1d		Ματθίας
+		n3g		Μαλελεήλ
+		n2a		Μάλχος
+		n3g		Μαναήν
+		n1g		Μανασσῆς
+		n1a		Μάρθα
+		n1a		Μαρία
+		n3g		Μαριάμ
+		n2a		Μᾶρκος
+		n3g		Ματθάν
+		n3g		Ματταθά
+		n1d		Ματταθίας
+		n3g		Μελεά
+		n3g		Μελχί
+		n3g		Μελχισέδεκ
+		n3g		Μεννά
+		n3g		Μιχαήλ
+		n3f		Μνάσων
+		n3g		Μολόχ
+		n3g		Μωϋσῆς
+		n3g		Ναασσών
+		n3g		Ναγγαί
+		n3g		Ναθάμ
+		n3g		Ναθαναήλ
+		n3g		Ναιμάν
+		n3g		Ναούμ
+		n2a		Νάρκισσος
+		n3g		Ναχώρ
+		n3g		Νεφθαλίμ
+		n3e		Νηρεύς
+		n3g		Νηρί
+		n3g		Νίγερ
+		n3f		Νικάνωρ
+		n2a		Νικόδημος
+		n2a		Νικόλαος
+		n1a		Νύμφα
+		n1e		Νυμφᾶς
+		n3g		Νῶε
+		n1d		Ὀζίας
+		n1e		Ὀλυμπᾶς
+		n2a		Ὀνήσιμος
+		n2a		Ὀνησίφορος
+		n2a		Οὐρβανός
+		n1d		Οὐρίας
+		n1e		Παρμενᾶς
+		n1e		Πατροβᾶς
+		n2a		Παῦλος
+		n3c		Περσίς
+		n2a		Πέτρος
+		n2a		Πιλᾶτος
+		n2a		Πόντιος
+		n2a		Πόπλιος
+		n2a		Πόρκιος
+		n3c		Πούδης
+		n1c		Πρίσκα
+		n1c		Πρίσκιλλα
+		n2a		Πρόχορος
+		n2a		Πύρρος
+		n3g		Σαδώκ
+		n3g		Σαλά
+		n3g		Σαλαθιήλ
+		n3g		Σαλήμ
+		n3g		Σαλμών
+		n1b		Σαλώμη
+		n3g		Σαμουήλ
+		n3g		Σαμψών
+		n3g		Σαούλ
+		n1c		Σάπφιρα
+		n1a		Σάρρα
+		n1e		Σατανᾶς
+		n2a		Σαῦλος
+		n2a		Σεκοῦνδος
+		n2a		Σέργιος
+		n3g		Σερούχ
+		n3g		Σήθ
+		n3g		Σήμ
+		n2a		Σιλουανός
+		n3f		Σίμων
+		n1e		Σκευᾶς
+		n1c		Σουσάννα
+		n3e		Στάχυς
+		n1e		Στεφανᾶς
+		n2a		Στέφανος
+		n3g		Συμεών
+		n1b		Συντύχη
+		n3g		Συχέμ
+		n2a		Σώπατρος
+		n3d		Σωσθένης
+		n2a		Σωσίπατρος
+		n3g		Ταβιθά
+		n2a		Τέρτιος
+		n2a		Τέρτυλλος
+		n2a		Τιβέριος
+		n2a		Τιμαῖος
+		n2a		Τιμόθεος
+		n3f		Τίμων
+		n2a		Τίτιος
+		n2a		Τίτος
+		n2a		Τρόφιμος
+		n1c		Τρύφαινα
+		n1c		Τρυφῶσα
+		n2a		Τύραννος
+		n3g		Φάλεκ
+		n3g		Φανουήλ
+		n3g		Φαραώ
+		n3b		Φῆλιξ
+		n2a		Φῆστος
+		n3f		Φιλήμων
+		n2a		Φίλητος
+		n2a		Φίλιππος
+		n2a		Φιλόλογος
+		n1b		Φοίβη
+		n2a		Φορτουνᾶτος
+		n2a		Φύγελος
+		n2a		Χριστός
+	Places
+		n1b		Ἀβιληνή
+		n1d		Ἀδρίας
+		n2b		Ἄζωτος
+		n1c		Ἀθῆναι
+		n2b		Αἴγυπτος
+		n3a		Αἰθίοψ
+		n3g		Αἰνών
+		n3e		Ἀλεξανδρεύς
+		n3e		Ἀμφίπολις
+		n1a		Ἀντιόχεια
+		n3e		Ἀντιοχεύς
+		n3c		Ἀντιπατρίς
+		n1a		Ἀπολλωνία
+		n1a		Ἀραβία
+		n3a		Ἄραψ
+		n1a		Ἀσία
+		n2a		Ἀσιανός
+		n2b		Ἆσσος
+		n1a		Ἀττάλεια
+		n3f		Βαβυλών
+		n1a		Βέροια
+		n1a		Βηθαβαρά
+		n1a		Βηθανία
+		n3g		Βηθεσδά
+		n3g		Βηθζαθά
+		n3g		Βηθλέεμ
+		n3g		Βηθσαϊδά
+		n3g		Βηθφαγή
+		n1a		Βιθυνία
+		n1c		Γάζα
+		n1f		Γαλάτης
+		n1a		Γαλατία
+		n1a		Γαλιλαία
+		n1a		Γαλλία
+		n3g		Γεθσημανί
+		n3g		Γεννησαρέτ
+		n3g		Γολγοθᾶ
+		n1a		Γόμορρα
+		n2c		Γόμορρα
+		n3g		Δαλμανουθά
+		n1a		Δαλματία
+		n2b		Δαμασκός
+		n3e		Δεκάπολις
+		n1b		Δέρβη
+		n1f		Ἐλαμίτης
+		n3g		Ἐμμαοῦς
+		n1f		Εὐφράτης
+		n2b		Ἔφεσος
+		n3g		Ἐφραίμ
+		n3g		Ζαβουλών
+		n3e		Θεσσαλονικεύς
+		n1b		Θεσσαλονίκη
+		n3g		Θυάτειρα
+		n3g		Θυάτιρα
+		n1a		Ἰδουμαία
+		n3g		Ἰεριχώ
+		n3g		Ἰερουσαλήμ
+		n2c		Ἰκόνιον
+		n2c		Ἰλλυρικόν
+		n1b		Ἰόππη
+		n1f		Ἰορδάνης
+		n1a		Ἰουδαία
+		n1e		Ἰούδας
+		n1a		Ἰταλία
+		n1a		Καισάρεια
+		n3g		Κανά
+		n1a		Καππαδοκία
+		n3g		Καῦδα
+		n3g		Καφαρναούμ
+		n1a		Κεγχρεαί
+		n3g		Κεδρών
+		n1a		Κιλικία
+		n3g		Κλαῦδα
+		n2b		Κνίδος
+		n1b		Κολοσσαί
+		n2a		Κορίνθιος
+		n2b		Κόρινθος
+		n3c		Κρής
+		n1b		Κρήτη
+		n2a		Κύπριος
+		n2b		Κύπρος
+		n2a		Κυρηναῖος
+		n1b		Κυρήνη
+		n2e		Κώς
+		n1a		Λαοδίκεια
+		n3e		Λαοδικεύς
+		n1a		Λασαία
+		n1b		Λιβύη
+		n3g		Λύδδα
+		n1a		Λυκαονία
+		n1a		Λυκία
+		n3g		Λύστρα
+		n3g		Μαγαδάν
+		n3g		Μαγδαλά
+		n3g		Μαδιάμ
+		n1a		Μακεδονία
+		n3f		Μακεδών
+		n1b		Μελίτη
+		n1a		Μεσοποταμία
+		n2a		Μῆδος
+		n2b		Μίλητος
+		n1b		Μιτυλήνη
+		n2c		Μύρα
+		n1a		Μυσία
+		n3g		Ναζαρά
+		n3g		Ναζαρέθ
+		n3g		Ναζαρέτ
+		n2a		Ναζωραῖος
+		n3g		Νεφθαλίμ
+		n3e		Νικόπολις
+		n1f		Νινευίτης
+		n1a		Παμφυλία
+		n2c		Πάταρα
+		n2a		Πάτμος
+		n2b		Πάφος
+		n2b		Πέργαμος
+		n2c		Πέργαμον
+		n1b		Πέργη
+		n1a		Πισιδία
+		n2a		Πόντος
+		n2a		Ποτίολοι
+		n3f		Σαλαμίς
+		n3g		Σαλίμ
+		n3g		Σαλήμ
+		n1b		Σαλμώνη
+		n1a		Σαμάρεια
+		n1f		Σαμαρίτης
+		n1b		Σαμοθρᾴκη
+		n2b		Σάμος
+		n3e		Σάρδεις
+		n2c		Σάρεπτα
+		n3f		Σαρών
+		n1a		Σελεύκεια
+		n3f		Σιδών
+		n3g		Σιλωάμ
+		n3g		Σιών
+		n1f		Σκύθης
+		n1c		Σμύρνα
+		n2c		Σόδομα
+		n1a		Σπανία
+		n1c		Συράκουσαι
+		n1a		Συρία
+		n2a		Σύρος
+		n1c		Συροφοινίκισσα
+		n3e		Σύρτις
+		n3g		Συχάρ
+		n3g		Συχέμ
+		n3e		Ταρσεύς
+		n2b		Ταρσός
+		n3c		Τιβεριάς
+		n3c		Τραχωνῖτις
+		n3c		Τρῳάς
+		n2c		Τρωγύλλιον
+		n2a		Τύριος
+		n2b		Τύρος
+		n1a		Φιλαδέλφεια
+		n2a		Φιλιππήσιος
+		n2a		Φίλιπποι
+		n1b		Φοινίκη
+		n3b		Φοῖνιξ
+		n1a		Φρυγία
+		n2a		Χαλδαῖος
+		n3g		Χανάαν
+		n3g		Χοραζίν
